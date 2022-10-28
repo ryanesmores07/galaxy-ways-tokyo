@@ -1,3 +1,4 @@
+<h3 style="text-align: center">Instagram</h3>
 <div class="grid grid--no-gutters image-bar image-bar--{{ section.settings.section_height }}">
   {% case section.blocks.size %}
     {% when 1 %}
@@ -30,6 +31,7 @@
       {% else %}
         <div class="image-bar__item">
       {% endif %}
+    
       <div class="image-bar__content{% if block.settings.cta_label != blank or block.settings.link != blank %} image-bar__overlay{% endif %}">
         {% if block.settings.image == blank %}
           {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
