@@ -1,0 +1,431 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Your order worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "9ce0cabb-3377-4293-a229-25a887f91bbd": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are ",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "What's included?",
+            "content": "<p>- Prestige - Advanced 2-in-1 Light Therapy Skincare Device<\/p><p>- User Guide<\/p><p>- Light Therapy USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p>",
+            "page": ""
+          }
+        },
+        "70a87f6f-6fa9-4169-8378-14b8137e4545": {
+          "type": "tab",
+          "settings": {
+            "title": "How it works",
+            "content": "<p>Our Prestige Advanced 2-in1 Light Therapy Skincare Device sends energy waves deep into the skin to cause a healing reaction on a cellular level.<\/p><p><strong>2 LED Colour Modes<\/strong><\/p><p><strong>- Red Light <\/strong>- Great anti-aging benefits because of its ability to stimulate collagen and elastin production. Red light therapy also helps with Eczema and Psoriasis.<\/p><p><strong>- Blue Light <\/strong>- Great for acne treatment. Stimulates the production of oxygen radicals that kills acne-causing bacteria without damaging the skin.<\/p>",
+            "page": ""
+          }
+        },
+        "b81650ac-ca8d-4f0a-bb77-8664f246a9b0": {
+          "type": "tab",
+          "settings": {
+            "title": "How often should I use it?",
+            "content": "<p>We suggest 3-5 times per week, for 15-30 minutes per session.<\/p>",
+            "page": ""
+          }
+        },
+        "228abf15-398e-4527-8f98-cd59aba0c8ac": {
+          "type": "tab",
+          "settings": {
+            "title": "How long does it take to see results?",
+            "content": "<p>Results can be noticed in as little as 1 week!<\/p>",
+            "page": ""
+          }
+        },
+        "92cf454e-ce26-49ea-a5bc-654cd42fcbdc": {
+          "type": "tab",
+          "settings": {
+            "title": "Instructions",
+            "content": "<p><strong>1. Clean your face<\/strong><\/p><p>We recommend to wash and dry your face so you start with clean, hydrated skin. <\/p><p><strong>2. Turn on the device<\/strong><\/p><p>Apply a serum or moisturiser. Glide the device across your face in an upward and outward motion. Slowly covering your forehead, cheeks, undereyes, jaw, neck and upper lip.<\/p><p>Use for at least 15 minutes and enjoy your new glow.<\/p><p><strong>3. Clean the device<\/strong><\/p><p>Wipe the device over with water.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "8371ad38-2f1a-4e10-b4b6-2c0f747c3057": {
+          "type": "tab",
+          "settings": {
+            "title": "Who should not use the Prestige Device?",
+            "content": "<p>Out of an abundance of caution, we do not recommend using the Prestige Advanced 2-in-1 Light Therapy Skincare Device if you are under 18, have an active or recent cancer diagnosis. Have a pacemaker (or other implated metal in your body), or are pregnant.<\/p><p>If you have any concerns please consult your physician as they will best be able to speak to your specific situation.<\/p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58",
+        "buy_buttons",
+        "9ce0cabb-3377-4293-a229-25a887f91bbd",
+        "description",
+        "tab",
+        "70a87f6f-6fa9-4169-8378-14b8137e4545",
+        "b81650ac-ca8d-4f0a-bb77-8664f246a9b0",
+        "228abf15-398e-4527-8f98-cd59aba0c8ac",
+        "92cf454e-ce26-49ea-a5bc-654cd42fcbdc",
+        "contact",
+        "8371ad38-2f1a-4e10-b4b6-2c0f747c3057",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "98fd188a-056a-4cb9-9a55-86cc0f8f385c": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116216365264__98fd188a-056a-4cb9-9a55-86cc0f8f385c-16711621460af822b8-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Limited Time! Receive a Free Silken",
+            "heading_size": "h2",
+            "text": "<p>Every Purchase of a Prestige Receive 1 Free Silken Crystal Hair Remover<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116216365264__98fd188a-056a-4cb9-9a55-86cc0f8f385c-16711621460af822b8-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "20",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116216365264__98fd188a-056a-4cb9-9a55-86cc0f8f385c-16711621460af822b8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_link": "",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216365264__98fd188a-056a-4cb9-9a55-86cc0f8f385c-16711621460af822b8-0",
+        "template--16116216365264__98fd188a-056a-4cb9-9a55-86cc0f8f385c-16711621460af822b8-1",
+        "template--16116216365264__98fd188a-056a-4cb9-9a55-86cc0f8f385c-16711621460af822b8-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "3ba80c39-cfc5-44b1-8c4f-02bf86459ecc": {
+      "type": "asSeenIn",
+      "blocks": {
+        "template--16137831350480__3ba80c39-cfc5-44b1-8c4f-02bf86459ecc-16764420092f03beb8-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_271.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16137831350480__3ba80c39-cfc5-44b1-8c4f-02bf86459ecc-16764420092f03beb8-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/ocbc_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16137831350480__3ba80c39-cfc5-44b1-8c4f-02bf86459ecc-16764420092f03beb8-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_270.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16137831350480__3ba80c39-cfc5-44b1-8c4f-02bf86459ecc-16764420092f03beb8-0",
+        "template--16137831350480__3ba80c39-cfc5-44b1-8c4f-02bf86459ecc-16764420092f03beb8-1",
+        "template--16137831350480__3ba80c39-cfc5-44b1-8c4f-02bf86459ecc-16764420092f03beb8-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "As Seen In",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f99c8e1784794f9da500e8c98c09c5d7.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "0059fb26-65b5-4252-852b-beb25c3cb954": {
+      "type": "image-compare",
+      "blocks": {
+        "template--16116216365264__0059fb26-65b5-4252-852b-beb25c3cb954-167118897136c67968-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_48.png"
+          }
+        },
+        "template--16116216365264__0059fb26-65b5-4252-852b-beb25c3cb954-167118897136c67968-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_49.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216365264__0059fb26-65b5-4252-852b-beb25c3cb954-167118897136c67968-0",
+        "template--16116216365264__0059fb26-65b5-4252-852b-beb25c3cb954-167118897136c67968-1"
+      ],
+      "settings": {
+        "heading": "94% of people reported their skin looked more vibrant and lifted after using the Prestige for 14 days.",
+        "subheading": "",
+        "heading_size": "h2",
+        "heading_position": "center",
+        "fullwidth": true,
+        "slider_style": "classic",
+        "height": 600,
+        "color": "#ffffff"
+      }
+    },
+    "2f1b964c-1691-4736-8bf7-368fe31f2f53": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215873744__2f1b964c-1691-4736-8bf7-368fe31f2f53-1670775139b7cd0828-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/8_8cbfc681-33e8-4763-830c-14d104b26784.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Microcurrent EMS Up<\/strong><\/p><p><em>Stimulate the muscles and deeper layers. Helps signs of aging and promoting smooth, healthy skin.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215873744__2f1b964c-1691-4736-8bf7-368fe31f2f53-1670775139b7cd0828-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design_50.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Therapeutic Warmth Massage<\/strong><\/p><p><em>Provides gentle massage, helping decrease appearance of redness, puffiness and boosts skin's natural radiance.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215873744__2f1b964c-1691-4736-8bf7-368fe31f2f53-1670775139b7cd0828-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/6_bd831c3b-5743-41ad-b009-8416e8c5aa08.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Blue Light Therapy<\/strong><\/p><p><em>Fights against breakouts, boosts the effects of serums & topicals and improves skin's radiance.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c660fb3c-d7d1-4c6f-b1f1-4d3ecf234559": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5_a5522ada-a5d2-452a-bc45-939a4867390b.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Red Light Therapy<\/strong><\/p><p><em>Rejuvenate the skin and improve the appearance and vibrance of the skin. Healing the inner and outer surface.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215873744__2f1b964c-1691-4736-8bf7-368fe31f2f53-1670775139b7cd0828-0",
+        "template--16116215873744__2f1b964c-1691-4736-8bf7-368fe31f2f53-1670775139b7cd0828-1",
+        "template--16116215873744__2f1b964c-1691-4736-8bf7-368fe31f2f53-1670775139b7cd0828-2",
+        "c660fb3c-d7d1-4c6f-b1f1-4d3ecf234559"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "What Prestige Can Do For You",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 4
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "0329e3c5-68cc-4372-ae8a-068d1079a06f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "e16b9403-0db3-4238-a32a-c20ef2cc2d33": {
+      "type": "c-product-suggesstion",
+      "disabled": true,
+      "settings": {
+        "para2": "",
+        "minutesAgo": ""
+      }
+    },
+    "89e5d6ac-233c-4452-8bdd-a7de0ee41c03": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "98fd188a-056a-4cb9-9a55-86cc0f8f385c",
+    "3ba80c39-cfc5-44b1-8c4f-02bf86459ecc",
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47",
+    "0059fb26-65b5-4252-852b-beb25c3cb954",
+    "2f1b964c-1691-4736-8bf7-368fe31f2f53",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "0329e3c5-68cc-4372-ae8a-068d1079a06f",
+    "collection-return",
+    "e16b9403-0db3-4238-a32a-c20ef2cc2d33",
+    "89e5d6ac-233c-4452-8bdd-a7de0ee41c03"
+  ]
+}

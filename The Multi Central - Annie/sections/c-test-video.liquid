@@ -1,0 +1,67 @@
+<section class="test-video">
+			<video width="95%" height="auto" controls loop>
+				<source src="http://techslides.com/demos/sample-videos/small.ogv type=video/ogg">
+				<source src="{{ section.settings.test_video }}" type=video/mp4>
+			  </video>
+			 
+			
+		</section>
+
+
+
+{% schema %}
+{
+  "name": "test-video",
+  "class": "text_1",
+  "settings": [
+
+    {
+       "type": "text",
+    "id": "test_video",
+    "label": "Video Link",
+    "default": "https://cdn.shopify.com/videos/c/o/v/d637965fee4446a8ab9412a230fdeb94.mp4"
+   
+    }
+    
+    
+  ],
+  "presets": [
+    {
+      "name": "test-video",
+      "blocks": [
+       
+      ]
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
+
+<style>
+
+			.test-video{
+              text-align:center
+				width:900px;
+				max-width:80%;
+				height: auto;
+				margin: 15px auto;
+			}
+
+  	@media (min-width: 40rem) {
+				.test-video{
+				width:550px;
+			}
+			}
+
+			@media (min-width: 56rem) {
+				.test-video{
+				width:780px;				
+			}
+			}
+
+</style>

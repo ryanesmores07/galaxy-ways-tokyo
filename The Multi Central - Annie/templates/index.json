@@ -1,0 +1,547 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "NEW YEAR NEW SKIN",
+            "title": "Enhance your <br>natural <span style=\"color:#FEBE21;\">glow<\/span>",
+            "title_size": 46,
+            "subheading": "SKINCARE MADE FOR MEN AND WOMEN",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "SHOP UP TO 40% OFF",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#febe21",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/ENHANCE_YOUR_SKIN_S_NATURAL_GLOW_1000_x_700mm_1080_x_500px_12.png",
+            "image_mobile": "shopify:\/\/shop_images\/ENHANCE_YOUR_SKIN_S_NATURAL_GLOW_1000_x_700mm_1080_x_500px_Instagram_Post_Square_64b10f02-be4b-4bdc-876a-deb3cf44adae.png",
+            "parallax_direction": "left",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "dots",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "a51120ee-147b-4ab5-8a69-4932b642e48f": {
+      "type": "asSeenIn",
+      "blocks": {
+        "template--16127565168848__a51120ee-147b-4ab5-8a69-4932b642e48f-16748494468cdfbea1-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_271.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565168848__a51120ee-147b-4ab5-8a69-4932b642e48f-16748494468cdfbea1-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/ocbc_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565168848__a51120ee-147b-4ab5-8a69-4932b642e48f-16748494468cdfbea1-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_270.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16127565168848__a51120ee-147b-4ab5-8a69-4932b642e48f-16748494468cdfbea1-0",
+        "template--16127565168848__a51120ee-147b-4ab5-8a69-4932b642e48f-16748494468cdfbea1-1",
+        "template--16127565168848__a51120ee-147b-4ab5-8a69-4932b642e48f-16748494468cdfbea1-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "AS SEEN IN",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "65d969e2-b965-40c0-b610-a15cec837b06": {
+      "type": "c-trusted",
+      "blocks": {
+        "template--16116005601488__65d969e2-b965-40c0-b610-a15cec837b06-1670702179bc13a03c-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "text": "<p>\"The set up and user interface is super easy. \"<\/p>"
+          }
+        },
+        "template--16116005601488__65d969e2-b965-40c0-b610-a15cec837b06-1670702179bc13a03c-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "text": "<p>\"I have noticed an improvement in my sleep.\"<\/p>"
+          }
+        },
+        "ba233b06-55c9-4238-b078-84c6b079ade1": {
+          "type": "text_1",
+          "disabled": true,
+          "settings": {
+            "title_2": "\"FEEL THE LOVE\"",
+            "text_2": "<p><strong>Over 15000+ Happy Customers<\/strong><\/p>"
+          }
+        },
+        "9d66ec58-e4ca-4bfc-b63b-e80971e0e990": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "text": "<p>\" Multipro helped relieve my neck pain, I'm so happy.\"<\/p>"
+          }
+        },
+        "8d277476-8cb5-48f3-be44-1d491ed82512": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "text": "<p>\"My energy level has been increasing dramatically.\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116005601488__65d969e2-b965-40c0-b610-a15cec837b06-1670702179bc13a03c-0",
+        "template--16116005601488__65d969e2-b965-40c0-b610-a15cec837b06-1670702179bc13a03c-1",
+        "ba233b06-55c9-4238-b078-84c6b079ade1",
+        "9d66ec58-e4ca-4bfc-b63b-e80971e0e990",
+        "8d277476-8cb5-48f3-be44-1d491ed82512"
+      ],
+      "settings": {
+        "title": "TRUSTED BY OUR VALUED CUSTOMERS",
+        "align_text": "left",
+        "desktop_columns_per_row": 5,
+        "icon_color": "#000000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "63c0853e-d59c-4811-a961-3dd067e2ccc0": {
+      "type": "c-richtext-logo",
+      "blocks": {
+        "a284f499-2bf0-4f32-811d-058a8ac281e0": {
+          "type": "logo",
+          "settings": {
+            "c-logo": "shopify:\/\/shop_images\/FDA_CLEARED_1.png"
+          }
+        },
+        "template--16127565168848__63c0853e-d59c-4811-a961-3dd067e2ccc0-1674149339ebf8d987-0": {
+          "type": "heading",
+          "settings": {
+            "c-sub-heading": "",
+            "title": "FDA Approved, Skin-Safe Technology"
+          }
+        },
+        "template--16127565168848__63c0853e-d59c-4811-a961-3dd067e2ccc0-1674149339ebf8d987-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "c-email": "",
+            "text": "The Multi Central beauty tools have been thoroughly tested to the most rigorous standards to deliver permanent results that won’t damage your skin."
+          }
+        }
+      },
+      "block_order": [
+        "a284f499-2bf0-4f32-811d-058a8ac281e0",
+        "template--16127565168848__63c0853e-d59c-4811-a961-3dd067e2ccc0-1674149339ebf8d987-0",
+        "template--16127565168848__63c0853e-d59c-4811-a961-3dd067e2ccc0-1674149339ebf8d987-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "55256d8e-5061-46f2-bb4b-adda4d881916": {
+      "type": "c-left-right-text",
+      "blocks": {
+        "template--16127565168848__55256d8e-5061-46f2-bb4b-adda4d881916-16741494281f951fea-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "Less hair, more savings",
+            "text": "<p>Other hair removal options cost an arm and a leg. The Silken Crystal Hair Removal Tool gets rid of unwanted hair on your arms and your legs, without breaking the bank.<\/p>",
+            "title2": ""
+          }
+        },
+        "template--16127565168848__55256d8e-5061-46f2-bb4b-adda4d881916-16741494281f951fea-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "text": "",
+            "title2": "<div class=\"topcost\">\n<p>Shaving <strong>$480*<\/strong><\/p> <p>Waxing <strong>$3,120*<\/strong><\/p> <p>Laser <strong>$2,500**<\/strong><\/p>\n<\/div>\n\n<div class=\"total\">Silken <strong>Just $39<\/strong>\n<\/div>\n<p>\n*Cost evaluated over 4 years<br>\n**Cost of standard out-of-home treatments.\n<\/p>"
+          }
+        },
+        "template--16127565168848__55256d8e-5061-46f2-bb4b-adda4d881916-16741494281f951fea-2": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title2": "<p>Evolve<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16127565168848__55256d8e-5061-46f2-bb4b-adda4d881916-16741494281f951fea-0",
+        "template--16127565168848__55256d8e-5061-46f2-bb4b-adda4d881916-16741494281f951fea-1",
+        "template--16127565168848__55256d8e-5061-46f2-bb4b-adda4d881916-16741494281f951fea-2"
+      ],
+      "custom_css": [
+        ".black-bg {background-color: black !important;}",
+        ".sub-heading {color: #fff;}"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "",
+        "c-rich_text": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "43f62702-4d47-4613-a3c8-d873684be536": {
+      "type": "c-image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/28d83b96f4f6c608df8b107c53004b5e_85850d38-7608-4be3-b541-6852bc304a63.jpg",
+        "image_width": 700,
+        "subtitle": "HAPPINESS GUARANTEE",
+        "title": "Love it, or return it.",
+        "text": "You're gonna love us, but in case you dont.",
+        "icon_1": "shopify:\/\/shop_images\/hand.png",
+        "text_1": "Try our products risk-free",
+        "text_2": "Free shipping and 90-day guarantee.",
+        "icon_2": "shopify:\/\/shop_images\/Intense_Skin_Bundle_16_1250d398-c6c3-4918-90e5-623a5361e550.png",
+        "text_3": "Targeted treatments",
+        "text_4": "Target what you want to improve.",
+        "icon_3": "shopify:\/\/shop_images\/Intense_Skin_Bundle_17_9fb8d76f-bccf-433b-9fcc-ae47b762a79f.png",
+        "text_5": "Superior design",
+        "text_6": "Cutting edge technology reengineered.",
+        "icon_4": "shopify:\/\/shop_images\/flag.png",
+        "text_7": "Ships worldwide",
+        "text_8": "No minimum spend needed.",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "b5099771-5a37-48b3-9575-49f667c86d36": {
+      "type": "countdown",
+      "disabled": true,
+      "blocks": {
+        "template--16116005601488__b5099771-5a37-48b3-9575-49f667c86d36-167092268426752d4f-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! <span style=\"color:#FEBE21;\">Sale<\/span>",
+            "heading_size": "h2",
+            "text": "<p>Get up to 50% off don't miss out! <\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116005601488__b5099771-5a37-48b3-9575-49f667c86d36-167092268426752d4f-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "31",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116005601488__b5099771-5a37-48b3-9575-49f667c86d36-167092268426752d4f-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/shop-all",
+            "button": "Shop all",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116005601488__b5099771-5a37-48b3-9575-49f667c86d36-167092268426752d4f-0",
+        "template--16116005601488__b5099771-5a37-48b3-9575-49f667c86d36-167092268426752d4f-1",
+        "template--16116005601488__b5099771-5a37-48b3-9575-49f667c86d36-167092268426752d4f-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "0331c26e-8edd-4664-bc64-98f2dc369bc8": {
+      "type": "c-text-column",
+      "blocks": {
+        "template--16116005601488__0331c26e-8edd-4664-bc64-98f2dc369bc8-16707073400c2ae269-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Intense_Skin_Bundle_10.png",
+            "image_width": 650,
+            "title": "ENERGY",
+            "text": "<p>Improve performance and<\/p><p>recovery downtime.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/multipro-series"
+          }
+        },
+        "template--16116005601488__0331c26e-8edd-4664-bc64-98f2dc369bc8-16707073400c2ae269-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Intense_Skin_Bundle_11.png",
+            "image_width": 650,
+            "title": "PAIN",
+            "text": "<p>Ease your pain <\/p><p>and soothe your joints.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/multipro-series"
+          }
+        },
+        "template--16116005601488__0331c26e-8edd-4664-bc64-98f2dc369bc8-16707073400c2ae269-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Intense_Skin_Bundle_12.png",
+            "image_width": 650,
+            "title": "SLEEP",
+            "text": "<p>Sleep tight and wake <\/p><p>up refreshed.<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/multipro-series"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116005601488__0331c26e-8edd-4664-bc64-98f2dc369bc8-16707073400c2ae269-0",
+        "template--16116005601488__0331c26e-8edd-4664-bc64-98f2dc369bc8-16707073400c2ae269-1",
+        "template--16116005601488__0331c26e-8edd-4664-bc64-98f2dc369bc8-16707073400c2ae269-2"
+      ],
+      "custom_css": [
+        ".dispflex p {}"
+      ],
+      "settings": {
+        "c-sub-heading": "THE BENEFITS",
+        "title": "Feel balanced.",
+        "c-rich_text": "<p>Helping people manage energy, pain, and sleeplessness.<\/p>",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "94018223-fe25-4a1a-8752-5882686d8451": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Intense_Skin_Bundle_9.png",
+        "image_width": 700,
+        "subtitle": "TMC SKINCARE MODEL",
+        "title": "Simplify your skincare",
+        "text": "<p>No more putting your skin into a one-size-fits- all box. We redesigned the TMC skincare model to put you at the center of it.<br\/><br\/>Our personalized approach allows you to select your skincare needs and pairs you with suitable devices. It empowers you with the tools to build your best routine each month.<\/p>",
+        "button_label": "CATER TO YOUR NEEDS",
+        "button_link": "shopify:\/\/collections",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "d3752896-b786-43eb-8ff0-a5f82d8b1b4b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "287b6281-947b-4c99-8ec5-84471616489b": {
+      "type": "c-image-with-text-s6-bg",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Intense_Skin_Bundle_8.png",
+        "image_width": 600,
+        "subtitle": "USAGE GUIDANCE",
+        "title": "How do I use Evolve IPL?",
+        "text": "<p>We want your experience with us to be simple, pain-free and easy. Lets zap away your unwanted hairs and stop hair growth.<br\/>We have some usage recommendations for first timers to help you feel your smoothest again.<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "shopify:\/\/products\/evolve-ice-ipl-hair-removal-handset",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "fc79871c-b0b0-491a-b351-03c01e3165a7": {
+      "type": "c-image-with-text-s7",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Intense_Skin_Bundle.png",
+        "image_width": 700,
+        "subtitle": "ENHANCE YOUR SKINCARE",
+        "title": "Discover your best skin.",
+        "c-text-review": "15000+ Happy Customers",
+        "text": "<p>Take the stress off of expensive skincare when you can try them all with our bundles.<\/p>",
+        "button_label": "Shop all",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "d5aaebac-ea06-413e-8b64-a0469e21ba70": {
+      "type": "c-text-column-no-bg",
+      "blocks": {
+        "template--16116005601488__d5aaebac-ea06-413e-8b64-a0469e21ba70-1670785458655677ff-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Your_paragraph_text_3_cf5a8624-c423-41f2-93a8-4e954b56f93b.png",
+            "image_width": 650,
+            "title": "\" 94% of people reported their skin looked more vibrant and lifted after using the Prestige for 14 days.\"",
+            "text": "<p>REAL PEOPLE <\/p>",
+            "button_label": "SHOP PRESTIGE",
+            "button_link": "shopify:\/\/products\/prestige-advanced-3-in-1-light-therapy-skincare-device"
+          }
+        },
+        "template--16116005601488__d5aaebac-ea06-413e-8b64-a0469e21ba70-1670785458655677ff-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/9.png",
+            "image_width": 650,
+            "title": "\"97% of people reported their skin looked more vibrant and reduced acne after using the Luxe for 14 days.\"",
+            "text": "<p>REAL RESULTS<\/p>",
+            "button_label": "SHOP LUXE",
+            "button_link": "shopify:\/\/products\/luxe-multifunctional-rejuvenating-cleansing-brush"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116005601488__d5aaebac-ea06-413e-8b64-a0469e21ba70-1670785458655677ff-0",
+        "template--16116005601488__d5aaebac-ea06-413e-8b64-a0469e21ba70-1670785458655677ff-1"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "",
+        "c-rich_text": "",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "2bf2f2f8-d418-44fe-98e3-2f06c521e004": {
+      "type": "c-image-with-text-s6-bg",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/e_40.png",
+        "image_width": 320,
+        "subtitle": "90 Day Money-Back Guarantee",
+        "title": "",
+        "text": "<p>We're proud to offer a risk-free 90 day money-back guarantee on all devices. If you are not happy - No problem! Just follow our money-back guarantee policy to receive a full refund.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "c33820e9-2a65-48af-9084-f3222963e4a0": {
+      "type": "c-richtext-logo",
+      "disabled": true,
+      "blocks": {
+        "b69958ab-235d-4b76-b6d0-0fda19539271": {
+          "type": "logo",
+          "settings": {
+            "c-logo": "shopify:\/\/shop_images\/img-2.png"
+          }
+        },
+        "template--16116005601488__c33820e9-2a65-48af-9084-f3222963e4a0-1670783057655797f9-0": {
+          "type": "heading",
+          "settings": {
+            "c-sub-heading": "NEED GUIDANCE?",
+            "title": "TheMultiCentral Support is here for you."
+          }
+        },
+        "template--16116005601488__c33820e9-2a65-48af-9084-f3222963e4a0-1670783057655797f9-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "c-email": "support@themulticentral.com",
+            "text": "Speak to one of us at"
+          }
+        }
+      },
+      "block_order": [
+        "b69958ab-235d-4b76-b6d0-0fda19539271",
+        "template--16116005601488__c33820e9-2a65-48af-9084-f3222963e4a0-1670783057655797f9-0",
+        "template--16116005601488__c33820e9-2a65-48af-9084-f3222963e4a0-1670783057655797f9-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "ca4d5d7d-f8d0-4895-baa0-89cc5284fb63": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM @themulticentral<\/h4>"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "a51120ee-147b-4ab5-8a69-4932b642e48f",
+    "65d969e2-b965-40c0-b610-a15cec837b06",
+    "63c0853e-d59c-4811-a961-3dd067e2ccc0",
+    "55256d8e-5061-46f2-bb4b-adda4d881916",
+    "43f62702-4d47-4613-a3c8-d873684be536",
+    "b5099771-5a37-48b3-9575-49f667c86d36",
+    "0331c26e-8edd-4664-bc64-98f2dc369bc8",
+    "94018223-fe25-4a1a-8752-5882686d8451",
+    "d3752896-b786-43eb-8ff0-a5f82d8b1b4b",
+    "287b6281-947b-4c99-8ec5-84471616489b",
+    "fc79871c-b0b0-491a-b351-03c01e3165a7",
+    "d5aaebac-ea06-413e-8b64-a0469e21ba70",
+    "2bf2f2f8-d418-44fe-98e3-2f06c521e004",
+    "c33820e9-2a65-48af-9084-f3222963e4a0",
+    "ca4d5d7d-f8d0-4895-baa0-89cc5284fb63"
+  ]
+}

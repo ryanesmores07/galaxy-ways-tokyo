@@ -1,0 +1,63 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "eecfb3d6-d0fe-4d4d-acb0-55b119a96319": {
+      "type": "c-Guarantee",
+      "blocks": {
+        "template--16116652572880__eecfb3d6-d0fe-4d4d-acb0-55b119a96319-1670850402f1f91e86-0": {
+          "type": "heading",
+          "settings": {
+            "title": "90 Day Guarantee"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116652572880__eecfb3d6-d0fe-4d4d-acb0-55b119a96319-1670850402f1f91e86-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "4aa39abe-5bee-4c4d-82b7-bb055cf30b03": {
+      "type": "c-Guarantee",
+      "blocks": {
+        "template--16116652572880__4aa39abe-5bee-4c4d-82b7-bb055cf30b03-1670850402f1f91e86-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p><strong>PLEASE DO NOT RETURN THE PACKAGE BEFORE CONTACTING US, WE CANNOT GUARANTEE PROCESSING YOUR REFUND IF YOU DON'T CONTACT US FIRST.<\/strong><\/p><p>We understand it's hard to trust a product which sounds too good to be true. That's why we're proud to offer our 90-day money-back guarantee!<\/p><p>How to claim your money back:<\/p><p><strong>1. <\/strong>It is necessary to trial your product for at least 70 Days from date of delivery, but for no more than 90 days.<\/p><p><strong>2. <\/strong>Once approved, return our Handset (in its original packaging) via a trackable mail service to the address provided by our customer care representative.<\/p><p><strong>3. <\/strong>Incomplete, indecipherable or illegible claims will be deemed invalid.Real postage costs for the sending and return of the product are the full responsibility of the Claimant and will not be refunded.<\/p><p><strong>3. <\/strong>Once returned, your product purchase price will be refunded to you. Refunds will be processed in their original form of payment only. Please allow up to 30 days for your credit card company to process your credit.<\/p><p><strong>4. <\/strong>If your item arrives damaged or is malfunctioning. We offer a 1-year warranty for all products:<\/p><p><strong>5. <\/strong>Email us at support@themulticentral.com for more details or fill out the form.Right Site Buttom\"Click Me\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116652572880__4aa39abe-5bee-4c4d-82b7-bb055cf30b03-1670850402f1f91e86-1"
+      ],
+      "settings": {
+        "align_text": "left",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "ed828c95-928b-400a-b493-e2f43dab62ca": {
+      "type": "c-a-contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": true,
+        "narrow_column": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "eecfb3d6-d0fe-4d4d-acb0-55b119a96319",
+    "4aa39abe-5bee-4c4d-82b7-bb055cf30b03",
+    "ed828c95-928b-400a-b493-e2f43dab62ca"
+  ]
+}

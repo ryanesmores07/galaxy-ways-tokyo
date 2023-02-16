@@ -1,0 +1,22 @@
+{
+  "sections": {
+    "2ad9869f-f68b-4771-9112-262c4a93ae09": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact us",
+        "text": "<p>Be sure to checkout our <a href=\"https:\/\/themulticentral.com\/apps\/faqs\" target=\"_self\"><strong>FAQs<\/strong><\/a> page first.<\/p><p>If you have any questions please fill out the form below or you can also email us at support@themulticentral.com or mail us <\/p><p>Please click <a href=\"https:\/\/themulticentral.myshopify.com\/pages\/90-day-guarantee\" target=\"_self\">here<\/a> for our 90 Day Guarantee Form<\/p>",
+        "show_phone": false,
+        "narrow_column": true
+      }
+    },
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {}
+    }
+  },
+  "order": [
+    "2ad9869f-f68b-4771-9112-262c4a93ae09",
+    "main"
+  ]
+}

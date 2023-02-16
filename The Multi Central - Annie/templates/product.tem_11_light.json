@@ -1,0 +1,260 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "dropdown",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "9ce0cabb-3377-4293-a229-25a887f91bbd": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are ",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Your order worldwide shipping"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58",
+        "buy_buttons",
+        "9ce0cabb-3377-4293-a229-25a887f91bbd",
+        "sales_point",
+        "description",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "00558e0d-5f8d-424e-a73d-42ab2fd77345": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116216037584__00558e0d-5f8d-424e-a73d-42ab2fd77345-16711172345417a602-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116216037584__00558e0d-5f8d-424e-a73d-42ab2fd77345-16711172345417a602-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2022",
+            "month": "12",
+            "day": "31",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116216037584__00558e0d-5f8d-424e-a73d-42ab2fd77345-16711172345417a602-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/products\/prestige-advanced-3-in-1-light-therapy-skincare-device",
+            "button": "SHOP PRESTIGE",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216037584__00558e0d-5f8d-424e-a73d-42ab2fd77345-16711172345417a602-0",
+        "template--16116216037584__00558e0d-5f8d-424e-a73d-42ab2fd77345-16711172345417a602-1",
+        "template--16116216037584__00558e0d-5f8d-424e-a73d-42ab2fd77345-16711172345417a602-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f99c8e1784794f9da500e8c98c09c5d7.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 4
+      }
+    },
+    "0b62f112-54a1-4752-820b-648c687505ac": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116216037584__0b62f112-54a1-4752-820b-648c687505ac-167111922843e29abe-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPL_LASER_41.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>BARE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/bare-skin-bundle-glow-silken"
+          }
+        },
+        "template--16116216037584__0b62f112-54a1-4752-820b-648c687505ac-167111922843e29abe-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_38.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>BLOSSOM SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/blossom-skin-bundle-evolve-iconic"
+          }
+        },
+        "template--16116216037584__0b62f112-54a1-4752-820b-648c687505ac-167111922843e29abe-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/e_37.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>SIGNATURE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/signature-skin-bundle-luxe-prestige-silken"
+          }
+        },
+        "1b8e0017-6dd1-47f3-8d60-5a14f5664627": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_39.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>INTENSE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/intense-skin-bundle-luxe-prestige-iconic"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216037584__0b62f112-54a1-4752-820b-648c687505ac-167111922843e29abe-0",
+        "template--16116216037584__0b62f112-54a1-4752-820b-648c687505ac-167111922843e29abe-1",
+        "template--16116216037584__0b62f112-54a1-4752-820b-648c687505ac-167111922843e29abe-2",
+        "1b8e0017-6dd1-47f3-8d60-5a14f5664627"
+      ],
+      "settings": {
+        "title": "BUNDLE & SAVE",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "55ddb06c-7ac8-470f-ba4a-67f45eafe033": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "00558e0d-5f8d-424e-a73d-42ab2fd77345",
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47",
+    "sub",
+    "product-recommendations",
+    "0b62f112-54a1-4752-820b-648c687505ac",
+    "recently-viewed",
+    "collection-return",
+    "55ddb06c-7ac8-470f-ba4a-67f45eafe033"
+  ]
+}

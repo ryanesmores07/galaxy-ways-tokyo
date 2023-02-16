@@ -1,0 +1,263 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "6a3eb464-f7fd-464a-bdaf-e9c4febfd3fd": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "6a3eb464-f7fd-464a-bdaf-e9c4febfd3fd",
+        "description",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "8d650eaf-ee84-417a-9d3d-648e1bdf6fd8": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116215808208__8d650eaf-ee84-417a-9d3d-648e1bdf6fd8-167111741918037904-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116215808208__8d650eaf-ee84-417a-9d3d-648e1bdf6fd8-167111741918037904-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "3",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116215808208__8d650eaf-ee84-417a-9d3d-648e1bdf6fd8-167111741918037904-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/products\/luxe-multifunctional-rejuvenating-cleansing-brush",
+            "button": "Shop LUXE",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215808208__8d650eaf-ee84-417a-9d3d-648e1bdf6fd8-167111741918037904-0",
+        "template--16116215808208__8d650eaf-ee84-417a-9d3d-648e1bdf6fd8-167111741918037904-1",
+        "template--16116215808208__8d650eaf-ee84-417a-9d3d-648e1bdf6fd8-167111741918037904-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "d29ab930-c1e1-4ca1-ae2b-aa56fc0b8830": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/00e6489919874af291c62a8618310a81.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "93e8be19-25d2-4717-9bc6-10b19ebb55d7": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215808208__93e8be19-25d2-4717-9bc6-10b19ebb55d7-16711311077e018e0d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>MULTIPRO SERIES<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": ""
+          }
+        },
+        "template--16116215808208__93e8be19-25d2-4717-9bc6-10b19ebb55d7-16711311077e018e0d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_38.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>BLOSSOM SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/blossom-skin-bundle-evolve-iconic"
+          }
+        },
+        "template--16116215808208__93e8be19-25d2-4717-9bc6-10b19ebb55d7-16711311077e018e0d-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/e_37.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>SIGNATURE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/signature-skin-bundle-luxe-prestige-silken"
+          }
+        },
+        "cbd7dfd5-f711-4bdb-8ef7-c57287855f92": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_39.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>INTENSE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/intense-skin-bundle-luxe-prestige-iconic"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215808208__93e8be19-25d2-4717-9bc6-10b19ebb55d7-16711311077e018e0d-0",
+        "template--16116215808208__93e8be19-25d2-4717-9bc6-10b19ebb55d7-16711311077e018e0d-1",
+        "template--16116215808208__93e8be19-25d2-4717-9bc6-10b19ebb55d7-16711311077e018e0d-2",
+        "cbd7dfd5-f711-4bdb-8ef7-c57287855f92"
+      ],
+      "settings": {
+        "title": "BUNDLE & SAVE",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "4d9c9394-0389-4198-93e7-8480a04af409": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8d650eaf-ee84-417a-9d3d-648e1bdf6fd8",
+    "d29ab930-c1e1-4ca1-ae2b-aa56fc0b8830",
+    "93e8be19-25d2-4717-9bc6-10b19ebb55d7",
+    "recently-viewed",
+    "collection-return",
+    "4d9c9394-0389-4198-93e7-8480a04af409",
+    "sub",
+    "product-recommendations"
+  ]
+}

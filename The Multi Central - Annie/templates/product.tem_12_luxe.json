@@ -1,0 +1,296 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "d9cf5a6a-a499-4292-a4f1-238b54e7236f": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "What's included?",
+            "content": "<p>- Luxe - Multifunctional Rejuvenating Cleansing Brush<\/p><p>- User Guide<\/p><p>- Cleansing Brush Replacement USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p>",
+            "page": ""
+          }
+        },
+        "127bf453-30f2-4043-ae8d-8ae867f2075a": {
+          "type": "tab",
+          "settings": {
+            "title": "What is Luxe all about?",
+            "content": "<p><strong>TheMultiCentral Cleansing Brush is the Top-Selling skin cleansing and massage tool for all skin types!<\/strong><\/p><p>This premium quality Cleansing Brush is designed to easily remove dirt, oil, makeup, debris from your face. It also has a massage head to rejuvenate the face. Get salon-like facial at home!<\/p>",
+            "page": ""
+          }
+        },
+        "2d849360-cfc4-4bfb-911c-160d98e016a3": {
+          "type": "tab",
+          "settings": {
+            "title": "What Makes Luxe Different?",
+            "content": "<p>- Soft, deep-cleansing massage<\/p><p>- Removes pore-clossing impurities<\/p><p>- Helps stimulate collagen production<\/p><p>- Kills blemish-causing bacteria without harmful side effects<\/p><p>- Safe and effective or all skin types<\/p><p>- Gentle for sensitive skin and mild-to-moderate acne<\/p>",
+            "page": ""
+          }
+        },
+        "d05bd84d-5fbe-4856-8bbb-d9c59a479709": {
+          "type": "tab",
+          "settings": {
+            "title": "Instructions",
+            "content": "<p><strong>1. Charge the device<\/strong><\/p><p>Ensure the device is charged (3 hours for the first use)<\/p><p><strong>2. Choose the brush head<\/strong><\/p><p>Attach the brush head of your choice. Simply pull\/push to remove and attach the brush head.<\/p><p><strong>3. Ensure the face is wet\/damp<\/strong><\/p><p>Use after wetting your face with warm water for best results. Then you can apply a face cleanser if you wish.<\/p><p><strong>4. Power On and Adjust Speed<\/strong><\/p><p>Press the power button and the speed button to adjust speed to your liking. Low to high speed. You can also use the device in water as it is waterproof.<\/p><p><strong>5. Use circular motions<\/strong><\/p><p>Clean your face in circular motions for several minutes.<\/p><p><strong>6. Wash Face and Clean the Device<\/strong><\/p><p>Wash your face with warm water and apply a moisturizer or serum to keep the skin hydrated or use the massage head to massage the moisturizer or serum into the skin. Clean the device and store away to dry.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "d9cf5a6a-a499-4292-a4f1-238b54e7236f",
+        "description",
+        "tab",
+        "127bf453-30f2-4043-ae8d-8ae867f2075a",
+        "2d849360-cfc4-4bfb-911c-160d98e016a3",
+        "d05bd84d-5fbe-4856-8bbb-d9c59a479709",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116216070352__c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe-16711932571eaa10b4-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Limited Time! Receive a Free Silken",
+            "heading_size": "h2",
+            "text": "<p>Every Purchase of a Luxe Receive 1 Free Silken Crystal Hair Remover<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116216070352__c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe-16711932571eaa10b4-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "20",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116216070352__c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe-16711932571eaa10b4-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_link": "",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216070352__c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe-16711932571eaa10b4-0",
+        "template--16116216070352__c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe-16711932571eaa10b4-1",
+        "template--16116216070352__c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe-16711932571eaa10b4-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "12862df6-80a5-44ab-b1f6-d3455451aa05": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/00e6489919874af291c62a8618310a81.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "862bc8a3-713d-4435-a83d-d9e93073ea1e": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Yellow_Playful_Vitamin_Chart_Information_Instagram_Post_2.png",
+        "image_width": 700,
+        "subtitle": "The most hygienic way to cleanse skin.",
+        "title": "",
+        "text": "<p><strong>Tailored cleansing<br\/><\/strong>6 brush types - for balanced, sensitive or combination skin. Gentle, Regular & Deep cleanse modes - for different areas of the face & neck.<\/p><p><strong>Firming massages<br\/><\/strong>Guided firming massages help reduce fine lines & sagging, relax facial & neck muscle tension points - targeting visible signs of aging.<\/p><p><strong>Flawless prep<br\/><\/strong>The best way to prep skin, for a more effective skincare routine. Luxe enables active ingredients in your creams, serums, and masks to penetrate deep into skin, where they work best<\/p><p><strong>Reduce blemishes<br\/><\/strong>Made of our Silicone Brush Head. Luxe is bacteria-resistant to reduce breakouts. It also gently exfoliates skin, removing dead skin cells to reveal fresh healthy skin below.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "38ec4b39-b26b-4073-a412-5a300c11d791": {
+      "type": "image-compare",
+      "blocks": {
+        "template--16116216070352__38ec4b39-b26b-4073-a412-5a300c11d791-167119347283c31b7c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_51.png"
+          }
+        },
+        "template--16116216070352__38ec4b39-b26b-4073-a412-5a300c11d791-167119347283c31b7c-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_52.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216070352__38ec4b39-b26b-4073-a412-5a300c11d791-167119347283c31b7c-0",
+        "template--16116216070352__38ec4b39-b26b-4073-a412-5a300c11d791-167119347283c31b7c-1"
+      ],
+      "settings": {
+        "heading": "Compare The Difference",
+        "heading_size": "h2",
+        "heading_position": "center",
+        "fullwidth": true,
+        "slider_style": "classic",
+        "height": 600,
+        "color": "#ffffff"
+      }
+    },
+    "3decced3-0c21-4dc8-859a-a8b3037de371": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "8024ea00-7ca0-45da-835d-8b3b54ac99e1": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c8fb09f6-dd14-4a2c-92d8-43bb44edd9fe",
+    "12862df6-80a5-44ab-b1f6-d3455451aa05",
+    "sub",
+    "product-recommendations",
+    "862bc8a3-713d-4435-a83d-d9e93073ea1e",
+    "38ec4b39-b26b-4073-a412-5a300c11d791",
+    "3decced3-0c21-4dc8-859a-a8b3037de371",
+    "recently-viewed",
+    "collection-return",
+    "8024ea00-7ca0-45da-835d-8b3b54ac99e1"
+  ]
+}

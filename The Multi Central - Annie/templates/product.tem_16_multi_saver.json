@@ -1,0 +1,256 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "disabled": true,
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "9ce0cabb-3377-4293-a229-25a887f91bbd": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are ",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Your order worldwide shipping"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "inventory_status",
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58",
+        "buy_buttons",
+        "9ce0cabb-3377-4293-a229-25a887f91bbd",
+        "sales_point",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "a5a17141-64d8-4e0b-9600-1143cbaebee7": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116216332496__a5a17141-64d8-4e0b-9600-1143cbaebee7-16710243638205a8ed-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116216332496__a5a17141-64d8-4e0b-9600-1143cbaebee7-16710243638205a8ed-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "21",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116216332496__a5a17141-64d8-4e0b-9600-1143cbaebee7-16710243638205a8ed-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/products\/multipro-series",
+            "button": "Shop Multipro series",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216332496__a5a17141-64d8-4e0b-9600-1143cbaebee7-16710243638205a8ed-0",
+        "template--16116216332496__a5a17141-64d8-4e0b-9600-1143cbaebee7-16710243638205a8ed-1",
+        "template--16116216332496__a5a17141-64d8-4e0b-9600-1143cbaebee7-16710243638205a8ed-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/68e291beb0f746168f65522f27e168d4.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 4
+      }
+    },
+    "4eecc433-0ed0-4493-953f-355e5185f333": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "e16b9403-0db3-4238-a32a-c20ef2cc2d33": {
+      "type": "c-product-suggesstion",
+      "disabled": true,
+      "blocks": {
+        "e8a886f8-88c4-4e2b-9d20-3386b5badb08": {
+          "type": "image_picker",
+          "disabled": true,
+          "settings": {
+            "c-product_1": "",
+            "c-p-name": "MultiPRO Series - Red Light Therapy",
+            "c-location": "in Blackburn, UK",
+            "k-time": "about 21 minutes ago"
+          }
+        }
+      },
+      "block_order": [
+        "e8a886f8-88c4-4e2b-9d20-3386b5badb08"
+      ],
+      "settings": {
+        "para2": "",
+        "minutesAgo": ""
+      }
+    },
+    "64dd0821-01e9-459f-aba7-f44e2dd56225": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a5a17141-64d8-4e0b-9600-1143cbaebee7",
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47",
+    "sub",
+    "product-recommendations",
+    "4eecc433-0ed0-4493-953f-355e5185f333",
+    "recently-viewed",
+    "collection-return",
+    "e16b9403-0db3-4238-a32a-c20ef2cc2d33",
+    "64dd0821-01e9-459f-aba7-f44e2dd56225"
+  ]
+}

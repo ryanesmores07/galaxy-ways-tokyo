@@ -1,0 +1,277 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "37e945cd-849d-4926-a0f0-c1967a389e1e": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "37e945cd-849d-4926-a0f0-c1967a389e1e",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "34cd1c10-3a26-45e9-9970-dbfc026216e4": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116215840976__34cd1c10-3a26-45e9-9970-dbfc026216e4-16711222108b26d86d-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116215840976__34cd1c10-3a26-45e9-9970-dbfc026216e4-16711222108b26d86d-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "3",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116215840976__34cd1c10-3a26-45e9-9970-dbfc026216e4-16711222108b26d86d-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/products\/iconic-precision-eyebrow-hair-trimmer",
+            "button": "SHOP ICONIC",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215840976__34cd1c10-3a26-45e9-9970-dbfc026216e4-16711222108b26d86d-0",
+        "template--16116215840976__34cd1c10-3a26-45e9-9970-dbfc026216e4-16711222108b26d86d-1",
+        "template--16116215840976__34cd1c10-3a26-45e9-9970-dbfc026216e4-16711222108b26d86d-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "e96a69cf-7232-4ef1-b261-1ca4f1425a9e": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/2d75f5f0f7574f00ba571d0cecd0922f.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "0d5d7c4a-9a8c-4d0c-8caf-1788eac79454": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215840976__0d5d7c4a-9a8c-4d0c-8caf-1788eac79454-16711222094d65dd41-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>MULTIPRO SERIES<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": ""
+          }
+        },
+        "template--16116215840976__0d5d7c4a-9a8c-4d0c-8caf-1788eac79454-16711222094d65dd41-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_38.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>BLOSSOM SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/blossom-skin-bundle-evolve-iconic"
+          }
+        },
+        "template--16116215840976__0d5d7c4a-9a8c-4d0c-8caf-1788eac79454-16711222094d65dd41-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/e_37.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>SIGNATURE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/signature-skin-bundle-luxe-prestige-silken"
+          }
+        },
+        "5e1a52b1-169f-4429-a703-5bb13c2eb557": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_39.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>INTENSE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/intense-skin-bundle-luxe-prestige-iconic"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215840976__0d5d7c4a-9a8c-4d0c-8caf-1788eac79454-16711222094d65dd41-0",
+        "template--16116215840976__0d5d7c4a-9a8c-4d0c-8caf-1788eac79454-16711222094d65dd41-1",
+        "template--16116215840976__0d5d7c4a-9a8c-4d0c-8caf-1788eac79454-16711222094d65dd41-2",
+        "5e1a52b1-169f-4429-a703-5bb13c2eb557"
+      ],
+      "settings": {
+        "title": "BUNDLE & SAVE",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "5302ddf2-f1d6-498a-b998-b3079069cb3d": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "34cd1c10-3a26-45e9-9970-dbfc026216e4",
+    "e96a69cf-7232-4ef1-b261-1ca4f1425a9e",
+    "sub",
+    "product-recommendations",
+    "0d5d7c4a-9a8c-4d0c-8caf-1788eac79454",
+    "recently-viewed",
+    "collection-return",
+    "5302ddf2-f1d6-498a-b998-b3079069cb3d"
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "a69f6070-82cc-4b11-8627-1be8021af78f": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT'S INCLUDED?",
+            "content": "<p><strong>Iconic - Precision Eyebrow Hair Trimmer<\/strong><\/p><p>- Iconic Tool<\/p><p>- User Guide<\/p><p>- Eyebrow Hair Trimmer USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p><p><strong>Evolve - Ice IPL Handset<\/strong><\/p><p>- 1 x Evolve Handset<\/p><p>- User Guide<\/p><p>- Universal Plug<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p>",
+            "page": ""
+          }
+        },
+        "860d7750-4bba-4071-ac3d-130b123b8682": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT IS IPL?",
+            "content": "<p>IPL stands for intense pulsed light. It works similar to laser hair removal, only it’s way easier and safer to do at home.<\/p><p>Evolve is a handheld device that targets unwanted hairs at the root and destroys them with light pulses (IPL) without burning or damaging your skin. It stops hair from growing back for long-term hair reduction.<\/p><p>IPL works in a similar way to laser therapy. The difference is that where laser therapy delivers a single wavelength of light energy, IPL delivers multiple wavelengths. This means that IPL can treat a larger area of skin in a shorter time than laser therapy.<\/p>",
+            "page": "laser"
+          }
+        },
+        "c1d23370-6b9a-4156-b3d9-202abab43ba8": {
+          "type": "tab",
+          "settings": {
+            "title": "WILL THIS WORK FOR MY HAIR\/SKIN?",
+            "content": "",
+            "page": "skin-hair-chart-evolve"
+          }
+        },
+        "c9032d47-8d04-46ae-b565-ad6dca93085d": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW LONG UNTIL I SEE RESULTS?",
+            "content": "<p>Evolve is certified to deliver long-term hair removal after 12 uses, but chances are you’ll start to see a serious reduction in hair growth after just 3 or 4.<\/p><p>Some people experience complete and total hairlessness after around 12 uses and throw away their razors for good. Others sometimes require touch-ups beyond that, and that’s fine too! Evolve's 30+ year lifespan allows you to do as many touch-ups as you like, for as long as you like.<\/p><p>As long as you use Evolve as directed, you’ll enjoy a permanent reduction of hair growth!<\/p>",
+            "page": ""
+          }
+        },
+        "d1e2e7dc-f0e3-4389-a25a-fdfaf197d5c1": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW iconic WORKS",
+            "content": "<p>The Iconic Precision Eyebrow Trimmer is an electric pen tool made out of sharp stainless steel, giving it a close, precise and clean trim. Using our 24k rose gold plated tip ensures minimizaation to skin irritation and discomfort.<\/p>",
+            "page": ""
+          }
+        },
+        "dfee475a-e6be-4909-8aa4-1c0ba007e0fc": {
+          "type": "tab",
+          "settings": {
+            "title": "WILL The iconic WORK FOR MY HAIR?",
+            "content": "<p>Yes! More than likely! As long as there is hair to trim the technology will target the areas of the face and shave them. Whether you have fine or coarse hair.<\/p>",
+            "page": ""
+          }
+        },
+        "31c9b4e3-d6a2-446b-8a95-4d02c272ebc8": {
+          "type": "tab",
+          "settings": {
+            "title": "ICONIC INSTRUCTIONS",
+            "content": "<p><strong>1. Prepare the area<\/strong><\/p><p>We recommend usage on dry clean skin.<\/p><p><strong>2. Remove the cap and switch the device on<\/strong><\/p><p>We recommend to slightly pull back the skin and trim the area by gengtly moving the head in small circular motions. For the best results do not use with no creams, serums, makeup or any other topical products.<\/p><p><strong>3. Clean your Iconic Hair Trimmer<\/strong><\/p><p>Be sure to clean the device everytime you use it by twisting off the pen and using the small brush to dust off any excess hair. We recommend that you use the Iconic Precision Eyebrow Hair Trimmer once or twice a week to help maintain your beautiful brows.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "buy_buttons",
+        "a69f6070-82cc-4b11-8627-1be8021af78f",
+        "description",
+        "tab",
+        "860d7750-4bba-4071-ac3d-130b123b8682",
+        "c1d23370-6b9a-4156-b3d9-202abab43ba8",
+        "c9032d47-8d04-46ae-b565-ad6dca93085d",
+        "d1e2e7dc-f0e3-4389-a25a-fdfaf197d5c1",
+        "dfee475a-e6be-4909-8aa4-1c0ba007e0fc",
+        "31c9b4e3-d6a2-446b-8a95-4d02c272ebc8",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "51395f07-97de-4b21-85ac-ecc4d382b605": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116215742672__51395f07-97de-4b21-85ac-ecc4d382b605-1671237836c7433cff-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Bundle & Save. Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116215742672__51395f07-97de-4b21-85ac-ecc4d382b605-1671237836c7433cff-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "20",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116215742672__51395f07-97de-4b21-85ac-ecc4d382b605-1671237836c7433cff-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/bundles",
+            "button": "Shop Bundles",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215742672__51395f07-97de-4b21-85ac-ecc4d382b605-1671237836c7433cff-0",
+        "template--16116215742672__51395f07-97de-4b21-85ac-ecc4d382b605-1671237836c7433cff-1",
+        "template--16116215742672__51395f07-97de-4b21-85ac-ecc4d382b605-1671237836c7433cff-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "32ed0d57-fe31-4048-884c-4b731de46eac": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/097d429811534858b5eb750930085f80.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "d5f9d978-6473-469e-b9a3-3d25d71ee14f": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215742672__d5f9d978-6473-469e-b9a3-3d25d71ee14f-16712378367a7b9ec3-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/25_1fbcd96e-dac2-4587-9d9f-2a0df14e6ea0.png",
+            "image_width": 650,
+            "title": "Smooth, soft skin",
+            "text": "<p>Hair removal is skincare. Evolve keeps your skin touchably smooth- without any stubble, strawberry legs or ingrown hairs, ever.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215742672__d5f9d978-6473-469e-b9a3-3d25d71ee14f-16712378367a7b9ec3-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/27_6f78b194-f89a-4a43-9f2a-40bfe549d25b.png",
+            "image_width": 650,
+            "title": "Save time & money",
+            "text": "<p>Swap out the time and money you'd spend on laser, in-salon waxing, or annoying razors for affordable, long- term hair removal.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215742672__d5f9d978-6473-469e-b9a3-3d25d71ee14f-16712378367a7b9ec3-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/26.png",
+            "image_width": 650,
+            "title": "Beauty, minus pain",
+            "text": "<p>Say a loud \"see ya never\" to cuts, razor burn, irritation, or bracing yourself for the next pull during a bikini wax.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d8a8920f-a48f-47c4-a755-bb9c80b880d9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/28_01d1ad75-00fc-4c4f-8309-406004d33c0e.png",
+            "image_width": 650,
+            "title": "Less flashing.... ;)",
+            "text": "<p>Spare that random girl at the salon and keep your V to yourself (when it comes to hair removal, that is.)<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215742672__d5f9d978-6473-469e-b9a3-3d25d71ee14f-16712378367a7b9ec3-0",
+        "template--16116215742672__d5f9d978-6473-469e-b9a3-3d25d71ee14f-16712378367a7b9ec3-1",
+        "template--16116215742672__d5f9d978-6473-469e-b9a3-3d25d71ee14f-16712378367a7b9ec3-2",
+        "d8a8920f-a48f-47c4-a755-bb9c80b880d9"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "What Evolve Can Do For You",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "d0efba4f-0aee-4dfc-9756-6017361f2bff": {
+      "type": "c-chart",
+      "blocks": {
+        "template--16116215742672__d0efba4f-0aee-4dfc-9756-6017361f2bff-167121427882cc96bd-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/20_70a25ae1-5aa7-466e-9e81-79f7980169a3.png",
+            "image_width": 650,
+            "title": "EVOLVE",
+            "text": "<p>Take care of your hair at home Privacy & convenience<\/p>",
+            "text_2": "<p>Affordable one-time cost WAY cheaper<\/p>",
+            "text_3": "<p>Affordable one-time cost WAY cheaper<\/p>",
+            "text_4": "<p>Completely pain-free Gentle treatments<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215742672__d0efba4f-0aee-4dfc-9756-6017361f2bff-167121427882cc96bd-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/21_6ac4d905-44d2-46f0-8641-3bf686bc4e4f.png",
+            "image_width": 650,
+            "title": "SHAVING",
+            "text": "<p>Shave constantly to keep body hair in check<\/p>",
+            "text_2": "<p>Deal with razor bumps, irritation, and cuts<\/p>",
+            "text_3": "<p>Hard to get a close shave, let alone smooth skin that lasts.<\/p>",
+            "text_4": "<p>An affordable but recurring expense<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215742672__d0efba4f-0aee-4dfc-9756-6017361f2bff-167121427882cc96bd-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/22_a09e918e-2071-466b-b84b-d5a9d4991882.png",
+            "image_width": 650,
+            "title": "WAXING",
+            "text": "<p>Hot wax literally rips your hair off your body. Ouch!<\/p>",
+            "text_2": "<p>Have a stranger remove your hair (even down there)<\/p>",
+            "text_3": "<p>Travel to a salon or brave the at-home wax kits<\/p>",
+            "text_4": "<p>Travel to a salon or brave the at-home wax kits<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "aadd0077-a541-4f8f-ba13-fb9492df3c5d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/23_90d68228-58da-4ea6-95e9-55519bb3a451.png",
+            "image_width": 650,
+            "title": "CLINICAL LASER",
+            "text": "<p>Wait 4-6 weeks between each session<\/p>",
+            "text_2": "<p>Wait 4-6 weeks between each session<\/p>",
+            "text_3": "<p>Avg Cost: 2-3x Evolve's price per session (and you'll prob need 4-8+)<\/p>",
+            "text_4": "<p>Painful, especially on underarms & bikini areas<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215742672__d0efba4f-0aee-4dfc-9756-6017361f2bff-167121427882cc96bd-0",
+        "template--16116215742672__d0efba4f-0aee-4dfc-9756-6017361f2bff-167121427882cc96bd-1",
+        "template--16116215742672__d0efba4f-0aee-4dfc-9756-6017361f2bff-167121427882cc96bd-2",
+        "aadd0077-a541-4f8f-ba13-fb9492df3c5d"
+      ],
+      "settings": {
+        "title": "Evolve vs Shaver vs Wax vs Laser",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "7863274a-6da8-4a70-ae98-e07a9c11d16a": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Electric_Eyebrow_Trimmer_1.jpg",
+        "image_width": 700,
+        "subtitle": "technological masterpiece",
+        "title": "The Iconic",
+        "text": "<p>We redesigned the eyebrow hair trimmer by focusing on maximum performance and comfort.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "28135e84-2563-4b00-94ac-1d0e6960eeb9": {
+      "type": "c-text-column-no-bg",
+      "blocks": {
+        "template--16116215742672__28135e84-2563-4b00-94ac-1d0e6960eeb9-16712493616d6781e2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/21_91803479-5966-40ee-b71f-d9e8710e0d27.png",
+            "image_width": 650,
+            "title": "See It In Action",
+            "text": "<p>REAL PEOPLE<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215742672__28135e84-2563-4b00-94ac-1d0e6960eeb9-16712493616d6781e2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/15_9eb88a28-f82e-487d-9f5a-c9a97da5ce82.png",
+            "image_width": 650,
+            "title": "High Tech At Home",
+            "text": "<p>REAL RESULTS<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215742672__28135e84-2563-4b00-94ac-1d0e6960eeb9-16712493616d6781e2-0",
+        "template--16116215742672__28135e84-2563-4b00-94ac-1d0e6960eeb9-16712493616d6781e2-1"
+      ],
+      "settings": {
+        "c-sub-heading": "Start your hair free journey today with Evolve & Iconic",
+        "title": "Less hair, more savings",
+        "c-rich_text": "<p>#1 PERMANENT HAIR REMOVAL SOLUTION<\/p>",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "3a1321fe-63c4-4083-9287-67c6c9b6f78e": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215742672__3a1321fe-63c4-4083-9287-67c6c9b6f78e-16712378367a7b9ec3-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>MULTIPRO SERIES<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": ""
+          }
+        },
+        "template--16116215742672__3a1321fe-63c4-4083-9287-67c6c9b6f78e-16712378367a7b9ec3-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_38.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>BLOSSOM SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/blossom-skin-bundle-evolve-iconic"
+          }
+        },
+        "template--16116215742672__3a1321fe-63c4-4083-9287-67c6c9b6f78e-16712378367a7b9ec3-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/e_37.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>SIGNATURE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/signature-skin-bundle-luxe-prestige-silken"
+          }
+        },
+        "eab6ec80-a7b9-429d-84d2-b236729f30c6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_39.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>INTENSE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/intense-skin-bundle-luxe-prestige-iconic"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215742672__3a1321fe-63c4-4083-9287-67c6c9b6f78e-16712378367a7b9ec3-0",
+        "template--16116215742672__3a1321fe-63c4-4083-9287-67c6c9b6f78e-16712378367a7b9ec3-1",
+        "template--16116215742672__3a1321fe-63c4-4083-9287-67c6c9b6f78e-16712378367a7b9ec3-2",
+        "eab6ec80-a7b9-429d-84d2-b236729f30c6"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "BUNDLE & SAVE",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "617b4bbc-947a-48b9-a18c-14da438b1237": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "51395f07-97de-4b21-85ac-ecc4d382b605",
+    "32ed0d57-fe31-4048-884c-4b731de46eac",
+    "d5f9d978-6473-469e-b9a3-3d25d71ee14f",
+    "sub",
+    "product-recommendations",
+    "d0efba4f-0aee-4dfc-9756-6017361f2bff",
+    "7863274a-6da8-4a70-ae98-e07a9c11d16a",
+    "28135e84-2563-4b00-94ac-1d0e6960eeb9",
+    "3a1321fe-63c4-4083-9287-67c6c9b6f78e",
+    "recently-viewed",
+    "collection-return",
+    "617b4bbc-947a-48b9-a18c-14da438b1237"
+  ]
+}

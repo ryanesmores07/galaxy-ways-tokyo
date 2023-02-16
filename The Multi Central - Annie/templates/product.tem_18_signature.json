@@ -1,0 +1,385 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "dropdown",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "304b6d41-a87d-44c5-b60a-d980d9c5bc0e": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT'S INCLUDED?",
+            "content": "<p><strong>Prestige - Advanced 2-in-1 Light Therapy Skincare Device<\/strong><\/p><p>- Prestige Handset<\/p><p>- User Guide<\/p><p>- Light Therapy USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p><p><strong>Luxe - Multifunctional Rejuvenating Cleansing Brush<\/strong><\/p><p>- Luxe Handset<\/p><p>- User Guide<\/p><p>- Cleansing Brush Replacement USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p><p><strong>Silken Crystal Hair Removal Tool<\/strong><\/p><p>- 1 x Silken Tool<\/p><p>- User Guide<\/p>",
+            "page": ""
+          }
+        },
+        "ee78f673-a43c-453b-b968-4a0b2e24cc88": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW SILKEN WORKS",
+            "content": "<p>Using advanced micro specs of crystalline technology. Silken Crystal Hair Removal allows the hair to clump and break from the surface when rubbed gently on the skin. <\/p><p>This process also helps exfoliate, revealing baby smooth skin after use.<\/p>",
+            "page": ""
+          }
+        },
+        "40e3cb33-f1f6-41fb-b404-b88a22f13979": {
+          "type": "tab",
+          "settings": {
+            "title": "CAN I USE SILKEN ON ALL BODY PARTS?",
+            "content": "<p>We suggest using on legs and arms, around the body. Although it is best to avoid sensitive areas such as underarms, face and bikini line.<\/p><p>The Silken Hair Removal Tool also works best on hair longer than 2mm.<\/p><p>If you are looking for a full body permanent hair removal solution, we suggest our at-home laser hair removal devices. The<a href=\"https:\/\/themulticentral.com\/products\/glow-ipl-hair-removal-handset\" title=\"Glow - IPL Hair Removal Handset\"> Glow - IPL Handset<\/a> and the <a href=\"https:\/\/themulticentral.com\/products\/evolve-ice-ipl-hair-removal-handset\" title=\"Evolve - Ice IPL Hair Removal Handset\">Evolve - Ice IPL Handset<\/a>.<\/p>",
+            "page": ""
+          }
+        },
+        "ef50b0e2-c692-44a3-b534-050c7f933162": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW OFTEN SHOULD I PRESTIGE?",
+            "content": "<p>We suggest 3-5 times per week, for 15-30 minutes per session.<\/p>",
+            "page": ""
+          }
+        },
+        "bf030cd0-c619-40e6-b0f4-c732f072d982": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW LONG DOES IT TAKE TO SEE RESULTS FOR PRESTIGE?",
+            "content": "<p>Results can be noticed in as little as 1 week!<\/p>",
+            "page": ""
+          }
+        },
+        "79079710-67fa-4f9f-af64-7d76a21d442a": {
+          "type": "tab",
+          "settings": {
+            "title": "WHO SHOULD NOT USE THE PRESTIGE DEVICE?",
+            "content": "<p>Out of an abundance of caution, we do not recommend using the Prestige Advanced 2-in-1 Light Therapy Skincare Device if you are under 18, have an active or recent cancer diagnosis. Have a pacemaker (or other implated metal in your body), or are pregnant.<\/p><p>If you have any concerns please consult your physician as they will best be able to speak to your specific situation.<\/p>",
+            "page": ""
+          }
+        },
+        "a4cd7b6e-3ae5-4483-ae0e-26384355eea1": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT IS LUXE ALL ABOUT?",
+            "content": "<p><strong>TheMultiCentral Cleansing Brush is the Top-Selling skin cleansing and massage tool for all skin types!<\/strong><\/p><p>This premium quality Cleansing Brush is designed to easily remove dirt, oil, makeup, debris from your face. It also has a massage head to rejuvenate the face. Get salon-like facial at home!<\/p>",
+            "page": ""
+          }
+        },
+        "a57a85b9-9bf6-48b4-927c-6d580ad78ffe": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT MAKES LUXE DIFFERENT?",
+            "content": "<p>- Soft, deep-cleansing massage<\/p><p>- Removes pore-clossing impurities<\/p><p>- Helps stimulate collagen production<\/p><p>- Kills blemish-causing bacteria without harmful side effects<\/p><p>- Safe and effective or all skin types<\/p><p>- Gentle for sensitive skin and mild-to-moderate acne<\/p>",
+            "page": ""
+          }
+        },
+        "2d9f6b72-5166-4959-8184-8f85f9b71576": {
+          "type": "tab",
+          "settings": {
+            "title": "INSTRUCTIONS",
+            "content": "<p><strong>Prestige<\/strong><\/p><p><strong>1. Clean your face<\/strong><\/p><p>We recommend to wash and dry your face so you start with clean, hydrated skin.<\/p><p><strong>2. Turn on the device<\/strong><\/p><p>Apply a serum or moisturiser. Glide the device across your face in an upward and outward motion. Slowly covering your forehead, cheeks, undereyes, jaw, neck and upper lip.Use for at least 15 minutes and enjoy your new glow.<\/p><p><strong>3. Clean the device<\/strong><\/p><p>Wipe the device over with water<\/p><p><strong>Luxe<\/strong><\/p><p><strong>1. Charge the device<\/strong><\/p><p>Ensure the device is charged (3 hours for the first use)<\/p><p><strong>2. Choose the brush head<\/strong><\/p><p>Attach the brush head of your choice. Simply pull\/push to remove and attach the brush head.<\/p><p><strong>3. Ensure the face is wet\/damp<\/strong><\/p><p>Use after wetting your face with warm water for best results. Then you can apply a face cleanser if you wish.<\/p><p><strong>4. Power On and Adjust Speed<\/strong><\/p><p>Press the power button and the speed button to adjust speed to your liking. Low to high speed. You can also use the device in water as it is waterproof.<\/p><p><strong>5. Use circular motions<\/strong><\/p><p>Clean your face in circular motions for several minutes.<\/p><p><strong>6. Wash Face and Clean the Device<\/strong><\/p><p>Wash your face with warm water and apply a moisturizer or serum to keep the skin hydrated or use the massage head to massage the moisturizer or serum into the skin. Clean the device and store away to dry.<\/p><p><strong>Silken<\/strong><\/p><p><strong>1. Prepare the area<\/strong><\/p><p>We recommend usage on dry or damp skin after shower.<\/p><p><strong>2. Avoid any cream\/lotion<\/strong><br\/>Applying cream or lotion before using will hinder it from working effectively.<\/p><p><strong>3. Get to action<br\/><\/strong>Using moderate pressure, simply rub the Crystal Hair Removal Tool on the desired area in circular motions.<\/p><p><strong>4. Clean your Silken Hair Removal Tool<\/strong><\/p><p>You can rinse the Crystal Hair Removal Tool with water after use.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "sales_point",
+        "buy_buttons",
+        "304b6d41-a87d-44c5-b60a-d980d9c5bc0e",
+        "description",
+        "tab",
+        "ee78f673-a43c-453b-b968-4a0b2e24cc88",
+        "40e3cb33-f1f6-41fb-b404-b88a22f13979",
+        "ef50b0e2-c692-44a3-b534-050c7f933162",
+        "bf030cd0-c619-40e6-b0f4-c732f072d982",
+        "79079710-67fa-4f9f-af64-7d76a21d442a",
+        "a4cd7b6e-3ae5-4483-ae0e-26384355eea1",
+        "a57a85b9-9bf6-48b4-927c-6d580ad78ffe",
+        "2d9f6b72-5166-4959-8184-8f85f9b71576",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "955a7ad5-4071-4cbf-9252-1f7bf8a815bb": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116216398032__955a7ad5-4071-4cbf-9252-1f7bf8a815bb-1671281179f0ff097a-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Bundle & Save. Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116216398032__955a7ad5-4071-4cbf-9252-1f7bf8a815bb-1671281179f0ff097a-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "20",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116216398032__955a7ad5-4071-4cbf-9252-1f7bf8a815bb-1671281179f0ff097a-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/bundles",
+            "button": "Shop bundles",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216398032__955a7ad5-4071-4cbf-9252-1f7bf8a815bb-1671281179f0ff097a-0",
+        "template--16116216398032__955a7ad5-4071-4cbf-9252-1f7bf8a815bb-1671281179f0ff097a-1",
+        "template--16116216398032__955a7ad5-4071-4cbf-9252-1f7bf8a815bb-1671281179f0ff097a-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "cb5b98f4-1ce6-4577-8b7a-7ba7476bd94c": {
+      "type": "c-product-video",
+      "disabled": true,
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/13b356c3695f40dfa05a5a6ab65eb70d.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "c72f4e8f-97fe-455d-9f89-b71d9f355dc2": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116216398032__c72f4e8f-97fe-455d-9f89-b71d9f355dc2-1671281178cac1ef41-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/8_8cbfc681-33e8-4763-830c-14d104b26784.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Microcurrent EMS Up<\/strong><\/p><p><em>Stimulate the muscles and deeper layers. Helps signs of aging and promoting smooth, healthy skin.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116216398032__c72f4e8f-97fe-455d-9f89-b71d9f355dc2-1671281178cac1ef41-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design_50.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Therapeutic Warmth Massage<\/strong><\/p><p><em>Provides gentle massage, helping decrease appearance of redness, puffiness and boosts skin's natural radiance.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116216398032__c72f4e8f-97fe-455d-9f89-b71d9f355dc2-1671281178cac1ef41-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/6_bd831c3b-5743-41ad-b009-8416e8c5aa08.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Therapeutic Warmth Massage<\/strong><\/p><p><em>Provides gentle massage, helping decrease appearance of redness, puffiness and boosts skin's natural radiance.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "68de1eb1-8a22-45b8-99b9-a851c36024d6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5_a5522ada-a5d2-452a-bc45-939a4867390b.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Red Light Therapy<\/strong><\/p><p><em>Rejuvenate the skin and improve the appearance and vibrance of the skin. Healing the inner and outer surface.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216398032__c72f4e8f-97fe-455d-9f89-b71d9f355dc2-1671281178cac1ef41-0",
+        "template--16116216398032__c72f4e8f-97fe-455d-9f89-b71d9f355dc2-1671281178cac1ef41-1",
+        "template--16116216398032__c72f4e8f-97fe-455d-9f89-b71d9f355dc2-1671281178cac1ef41-2",
+        "68de1eb1-8a22-45b8-99b9-a851c36024d6"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "What Prestige Can Do For You",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "96ae868f-801e-48d7-9930-ea1284bccdcd": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Yellow_Playful_Vitamin_Chart_Information_Instagram_Post_2.png",
+        "image_width": 700,
+        "subtitle": "THE MOST HYGIENIC WAY TO CLEANSE SKIN.",
+        "title": "",
+        "text": "<p><strong>Tailored cleansing<br\/><\/strong>6 brush types - for balanced, sensitive or combination skin. Gentle, Regular & Deep cleanse modes - for different areas of the face & neck.<\/p><p><strong>Firming massages<br\/><\/strong>Guided firming massages help reduce fine lines & sagging, relax facial & neck muscle tension points - targeting visible signs of aging.<\/p><p><strong>Flawless prep<br\/><\/strong>The best way to prep skin, for a more effective skincare routine. Luxe enables active ingredients in your creams, serums, and masks to penetrate deep into skin, where they work best<\/p><p><strong>Reduce blemishes<br\/><\/strong>Made of our Silicone Brush Head. Luxe is bacteria-resistant to reduce breakouts. It also gently exfoliates skin, removing dead skin cells to reveal fresh healthy skin below.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "c91e6c9f-15ab-4fb4-a374-06a290bebba6": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Healthy_and_Unhealthy_Food_Comparison_Instagram_Post.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "What Makes Silken Special",
+        "text": "<p>Find out why you should choose Silken instead of other hair removal tools.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "8a3e5cf6-c01f-4802-910a-3b51ec283906": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "7c97298e-c1b7-4844-8105-5a6947b34c01": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "955a7ad5-4071-4cbf-9252-1f7bf8a815bb",
+    "cb5b98f4-1ce6-4577-8b7a-7ba7476bd94c",
+    "sub",
+    "product-recommendations",
+    "c72f4e8f-97fe-455d-9f89-b71d9f355dc2",
+    "96ae868f-801e-48d7-9930-ea1284bccdcd",
+    "c91e6c9f-15ab-4fb4-a374-06a290bebba6",
+    "8a3e5cf6-c01f-4802-910a-3b51ec283906",
+    "recently-viewed",
+    "collection-return",
+    "7c97298e-c1b7-4844-8105-5a6947b34c01"
+  ]
+}

@@ -1,0 +1,377 @@
+<div id="popupCards"></div>
+
+{% schema %}
+{
+  "name": "k-Popup Suggestion",
+  "settings": [
+
+    {
+         "type": "text",
+         "id": "para2",
+         "label": "After Product Name"
+    },
+    {
+         "type": "text",
+         "id": "minutesAgo",
+         "label": "Minutes Ago"
+    },
+    {
+      "type": "image_picker",
+      "id": "imgLeftPopup",
+      "label": "Product Image"
+    }
+  ],
+     "blocks": [
+    {
+      "type": "image_picker",
+      "name": "Product",
+      "settings": [
+         {
+          "type": "product",
+          "id": "c-product_1",
+          "label": "Product"
+        },
+        {
+          "type": "image_picker",
+          "id": "c-product",
+          "label": "Product"
+        },
+        {
+          "type": "text",
+          "id": "c-p-name",
+          "label": "Product Name",
+          "default": "MultiPRO Series - Red Light Therapy"
+        },
+        {
+          "type": "text",
+          "id": "c-location",
+          "label": "Location",
+          "default": "in Blackburn, UK"
+        },
+        {
+          "type": "text",
+          "id": "k-time",
+          "label": "Time",
+          "default": "about 21 minutes ago"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+        "name": "k-Popup Suggestion",
+        "category": "Carousel"
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
+
+<style>
+  .cardShowPopup {
+       background-color: #FEF8DD;
+       border-radius: 10px;
+       width: 350px;
+       height: 100px;
+       box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+       position: fixed;
+       bottom: 30px;
+       left: 30px;
+  }
+
+  .leftPicPopup {
+      width: 20%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+
+  .leftPicPopup img {
+      width: 75%;
+      object-fit: cover;
+      object-position: center;
+  }
+
+  .rightContentPopup {
+      width: 80%;
+      height: 100%;
+      padding: 10px 0px;
+  }
+</style>
+
+{%- for block in section.blocks -%}
+  {% if forloop.index == 1 %}
+    <script>
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 10000);
+    </script>
+
+  {% elsif forloop.index == 2 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 25000);
+    </script>
+
+{% elsif forloop.index == 3 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 26000);
+    </script>
+
+    {% elsif forloop.index == 4 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 27000);
+    </script>
+
+    {% elsif forloop.index == 5 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 28000);
+    </script>
+
+{% elsif forloop.index == 6 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 29000);
+    </script>
+
+{% elsif forloop.index == 7 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 30000);
+    </script>
+
+{% elsif forloop.index == 8 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 31000);
+    </script>
+
+    {% elsif forloop.index == 9 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 32000);
+    </script>
+
+{% elsif forloop.index == 10 %}
+    <script> 
+  window.setTimeout(() => {
+            let cardShow = document.createElement("div");
+            let parentDiv = document.getElementById("popupCards");
+            cardShow.setAttribute("class", "cardShowPopup");
+  
+            parentDiv.appendChild(cardShow);
+            cardShow.innerHTML = `
+             
+              <div class="leftPicPopup">
+              
+                <img src='{{ block.settings.c-product | img_url: 'master' }}' />
+              </div>
+              <div class="rightContentPopup">
+                <p> Some one recently bought <strong style="color: #C26431;">{{ block.settings.c-p-name }}</strong> {{ block.settings.c-location }} </p>
+                <p style="font-size: 12px;">{{ block.settings.k-time }} minutes ago</p>
+              </div>
+             
+            `;
+            cardShow.style.display = "none";
+        
+        }, 33000);
+    </script>
+
+    
+  {% endif %}
+{%- endfor -%}
+
+<script>
+  let allCards = document.getElementsByClassName("cardShowPopup");
+
+  let loopVar = 0;
+  window.setInterval(()=>{
+     var allC = Array.from(allCards);
+    if(loopVar == allC.length) {
+      loopVar = 0;
+    }
+    allC[loopVar].style.display = "flex";
+    setTimeout(() => {
+       allC[loopVar++].style.display = "none";
+    }, 5000);
+  }, 15000);
+</script>

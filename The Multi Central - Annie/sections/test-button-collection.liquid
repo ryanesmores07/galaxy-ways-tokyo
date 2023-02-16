@@ -1,0 +1,70 @@
+
+  <section class = "c-test-button-container">
+    
+        <a href="{{ section.settings.test-button}}" class = "c-test-btn">{{ section.settings.button-text  }}</a>
+  
+  </section>
+
+
+{% schema %}
+  {
+    "name": "Back to collection",
+    "settings": [
+       {
+        "type":"text",
+           "id":"button-text",
+           "label":"Button",
+          "default":"Back to Collection"
+           
+        },
+        {
+        "type":"url",
+           "id":"test-button",
+           "label":"url"
+           
+        }
+      
+    ],
+    
+    
+      "presets": [
+    {
+      "name": "Back to collection",
+      "blocks": [
+       
+      ]
+    }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
+
+<style>
+  .c-test-button-container{
+    width:100% !important;
+    height: auto !important;
+    text-align:center !important;
+    margin: 30px auto !important;
+  }
+  
+  .c-test-btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px; 
+  color: #ffffff;
+  background: #000000;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.c-test-btn:hover {
+  color: #ffffff;
+  background: #475157;
+  text-decoration: none;
+}
+</style>

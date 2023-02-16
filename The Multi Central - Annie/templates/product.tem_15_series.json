@@ -1,0 +1,434 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "truck",
+            "text": "Your order worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "9ce0cabb-3377-4293-a229-25a887f91bbd": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are ",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "What's Included?",
+            "content": "<p><strong>MultiPRO 3.0<\/strong><\/p><p>Light Blocking Goggles<\/p><p>Manual<\/p><p>Wire Rope<\/p><p>Power Cable<\/p><p>Cable Assembly & Snap Links<\/p><p>Door Hook<\/p><p>MultiPRO 3.0 Device<\/p><p><strong>MultiPRO 6.0<\/strong><\/p><p>Light Blocking Goggles<\/p><p>Manual<\/p><p>Power Cable<\/p><p>Cable Assembly & Snap Links<\/p><p>Door Hook<\/p><p>Wire Rope<\/p><p>Remote Control<\/p><p>MultiPRO 6.0 Device<\/p><p><strong>MultiPRO 9.0<\/strong><\/p><p>Light Blocking Goggles<\/p><p>Manual<\/p><p>Power Cable<\/p><p>Cable Assembly & Snap Links<\/p><p>Door Hook<\/p><p>Wire Rope<\/p><p>Remote Control<\/p><p>MultiPRO 9.0 Device<\/p>",
+            "page": ""
+          }
+        },
+        "cb28c25d-1804-4b4b-b8a5-f9447e0c31e5": {
+          "type": "tab",
+          "settings": {
+            "title": "What is Red Light Therapy?",
+            "content": "<p>Red light therapy (RLT) is a treatment that uses low wavelength red light to reportedly improve your skin's appearance, such as reducing wrinkles, scare, redness and acne.<\/p>",
+            "page": ""
+          }
+        },
+        "c598ee93-336b-41eb-83ed-a7d406bc9b08": {
+          "type": "tab",
+          "settings": {
+            "title": "What is Near Infrared (NIR)?",
+            "content": "<p>Near infrared light is commonly referred to as NIR or simply infrared light. Near infrared light is term give to wavelenfths of light between 800 to 2,500 nm. The wavelengths of NIR light used in the MultiPRO panels are not visible to the human eye and do not produce excessive heat.<\/p>",
+            "page": ""
+          }
+        },
+        "abb45404-5c6c-4cca-94a6-a61490d55e31": {
+          "type": "tab",
+          "settings": {
+            "title": "Treatment Guidelines",
+            "content": "<p>Standard Treatment: 10-minute treatments of 16-24 inches from your device is optimal. 15-20 minutes for symptomatic areas may be beneficial, but beyond that, the evidence points to diminishing returns (your cells can only absorb so much light at once).<\/p><p>How Often: To get the most out of your MultiPro treatments, consistency is key. The Multi Central recommends once daily use, although 2-3 times per day may be beneficial for symptomatic areas.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "2fa3d21a-19e5-447f-b60c-be7f40f9fb58",
+        "buy_buttons",
+        "9ce0cabb-3377-4293-a229-25a887f91bbd",
+        "description",
+        "tab",
+        "cb28c25d-1804-4b4b-b8a5-f9447e0c31e5",
+        "c598ee93-336b-41eb-83ed-a7d406bc9b08",
+        "abb45404-5c6c-4cca-94a6-a61490d55e31",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "62f8c2df-3219-4620-9a6e-656f3be60754": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116216299728__62f8c2df-3219-4620-9a6e-656f3be60754-1671010550e0dc98c1-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Bundle & Save. Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116216299728__62f8c2df-3219-4620-9a6e-656f3be60754-1671010550e0dc98c1-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "20",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116216299728__62f8c2df-3219-4620-9a6e-656f3be60754-1671010550e0dc98c1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_link": "",
+            "button": "Shop Collection",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116216299728__62f8c2df-3219-4620-9a6e-656f3be60754-1671010550e0dc98c1-0",
+        "template--16116216299728__62f8c2df-3219-4620-9a6e-656f3be60754-1671010550e0dc98c1-1",
+        "template--16116216299728__62f8c2df-3219-4620-9a6e-656f3be60754-1671010550e0dc98c1-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/68e291beb0f746168f65522f27e168d4.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 25,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "ca55d5b5-aeb7-4fb0-8cab-b4f47afc3b2d": {
+      "type": "c-image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Blue_White_Illustrated_Walk_Desktop_Wallpaper_1000_x_1000px.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Heal With Light",
+        "text": "The MultiPRO devices emit red and near-infrared light designed to reduce pain, relax muscles\/joints, and increase blood circulation.",
+        "icon_1": "shopify:\/\/shop_images\/4_224fe469-d13d-4e90-b6ca-41bcce395fb8.png",
+        "text_1": "Enhance Your Skin",
+        "text_2": "Relieve Pain",
+        "icon_2": "shopify:\/\/shop_images\/1_2a6491ce-e9de-4472-a8e7-ab412c6510b8.png",
+        "text_3": "Performance And Recovery",
+        "text_4": "Increase Blood Flow",
+        "icon_3": "shopify:\/\/shop_images\/3_e844d418-e0cc-4add-8df7-3a0323922a92.png",
+        "text_5": "Healing Inside And Out",
+        "text_6": "Recover Faster With Red Light",
+        "icon_4": "shopify:\/\/shop_images\/2_a6fadcb9-d864-41a7-9e97-fa66648efb72.png",
+        "text_7": "Improved Energy For The Day",
+        "text_8": "Relax Sore Muscles\/Joints",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "40e37021-9529-4eb0-b05f-1669c4d3b425": {
+      "type": "c-chart",
+      "blocks": {
+        "5defd081-256d-451f-89f0-3448e383b5f2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+            "image_width": 650,
+            "title": "Specifications",
+            "text": "<p>Dimensions:<\/p>",
+            "text_2": "<p>LED Peak Wavelengths:<\/p>",
+            "text_3": "<p>LED Count:<\/p>",
+            "text_4": "<p>LED Count:*Irradiance at 6 Inches<\/p>",
+            "text_5": "<p>Weight:<\/p>",
+            "text_6": "<p>Timer Function:<\/p>",
+            "text_7": "<p>Warranty:<\/p>",
+            "text_8": "<p>Dimmable Light:<\/p>",
+            "text_9": "<p>Actual Power:<\/p>",
+            "text_10": "<p>Best Used For:<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "cba52397-1433-4056-9e9a-bf1b64aa4691": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPL_LASER_53.png",
+            "image_width": 650,
+            "title": "MultiPRO 300",
+            "text": "<p>287*210*65mm<\/p>",
+            "text_2": "<p>630nm, 660nm, 810nm, 830nm, 850nm<\/p>",
+            "text_3": "<p>60 (30 Red\/ 30 Near-Infrared)<\/p>",
+            "text_4": "<p>&gt;160mW\/cm2<\/p>",
+            "text_5": "<p> 2.4kg<\/p>",
+            "text_6": "<p>10min Default, 30 mins Max<\/p>",
+            "text_7": "<p>1 Years<\/p>",
+            "text_8": "<p>1%-100%<\/p>",
+            "text_9": "<p>300w<\/p>",
+            "text_10": "<p>Targeted Treatment<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "64817fc7-30b7-4d72-982d-35d2c0f0446c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPL_LASER_46.png",
+            "image_width": 650,
+            "title": "MultiPRO 600",
+            "text": "<p>480*300*65mm<\/p>",
+            "text_2": "<p>630nm, 660nm, 810nm, 830nm, 850nm<\/p>",
+            "text_3": "<p>120 (60 Red\/ 60 Near-Infrared)<\/p>",
+            "text_4": "<p>&gt;165mW\/cm2<\/p>",
+            "text_5": "<p>5.7kg<\/p>",
+            "text_6": "<p>10min Default, 30 mins Max<\/p>",
+            "text_7": "<p>1 Years<\/p>",
+            "text_8": "<p>1%-100%<\/p>",
+            "text_9": "<p>750w<\/p>",
+            "text_10": "<p>Half Body Treatment<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "93640c87-ac89-45ae-842d-f29cee654e9c": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPL_LASER_48.png",
+            "image_width": 650,
+            "title": "MultiPRO 900",
+            "text": "<p>920*300*65mm<\/p>",
+            "text_2": "<p>630nm, 660nm, 810nm, 830nm, 850nm<\/p>",
+            "text_3": "<p>300 (150 Red\/ 150 Near-Infrared)<\/p>",
+            "text_4": "<p>&gt;170mW\/cm2&lt;<\/p>",
+            "text_5": "<p>11kg<\/p>",
+            "text_6": "<p>10min Default, 30 mins Max<\/p>",
+            "text_7": "<p>1 Years<\/p>",
+            "text_8": "<p>1%-100%<\/p>",
+            "text_9": "<p>1500w<\/p>",
+            "text_10": "<p>Full Body Treatment<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "5defd081-256d-451f-89f0-3448e383b5f2",
+        "cba52397-1433-4056-9e9a-bf1b64aa4691",
+        "64817fc7-30b7-4d72-982d-35d2c0f0446c",
+        "93640c87-ac89-45ae-842d-f29cee654e9c"
+      ],
+      "settings": {
+        "title": "Compare the models",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "738b106f-d76f-44fa-b723-67894d916b13": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/lQDPDhtp7mbMqhrNBdzNBdywGddBFwpMaogCfjsgH8ADAA_1500_1500_2681a7c8-ad40-4548-9148-85711b59e1a2.jpg",
+        "image_width": 700,
+        "subtitle": "MultiPRO FloorStand",
+        "title": "",
+        "text": "<p>With the MultiPRO series, panels can be combined to create larger arrays, the MultiPRO Floor Stand is a great choice.<\/p>",
+        "button_label": "GET THE FLOOR STAND",
+        "button_link": "shopify:\/\/products\/multipro-floor-stand",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "456fa9a2-e613-4ccd-a79d-f65c94eb5cf4": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IPLLASER_67_ee54d9f7-7d4f-4073-aae1-34c6694aa836.png",
+        "image_width": 700,
+        "subtitle": "MultiPRO Red Light 2-in-1 Premium Horizontal-Vertical Stand",
+        "title": "",
+        "text": "<p>The MultiPRO Red Light 2-in-1 Premium Horizontal\/Vertical Stand is a great option if you'd prefer to lay down or go for full coverage during your session.<\/p>",
+        "button_label": "GET THE PREMIUM STAND",
+        "button_link": "shopify:\/\/products\/multipro-red-light-horizontal-stand",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "a591de65-bf15-4634-b319-b81821c1e555": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IPL_LASER_69.png",
+        "image_width": 700,
+        "subtitle": "MultiPRO Red Light 2-in-1 Saver Horizontal-Vertical Stand",
+        "title": "",
+        "text": "<p>With the MultiPRO series, certain panels can be combined to create larger arrays, the MultiPRO Vertical Stand is a great choice for more singular panels or the 3.0 +6.0 conjoined.<\/p>",
+        "button_label": "GET THE SAVER STAND",
+        "button_link": "shopify:\/\/products\/multipro-red-light-2-in-1-saver-horizontal-vertical-stand",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "84153384-e05d-4348-9a7a-f1a07f4f0e57": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 4
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "592699d8-5a40-4862-b910-d27346526906": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "62f8c2df-3219-4620-9a6e-656f3be60754",
+    "e9dc78dc-e9cb-437e-aa01-71e5eea4de47",
+    "ca55d5b5-aeb7-4fb0-8cab-b4f47afc3b2d",
+    "40e37021-9529-4eb0-b05f-1669c4d3b425",
+    "738b106f-d76f-44fa-b723-67894d916b13",
+    "456fa9a2-e613-4ccd-a79d-f65c94eb5cf4",
+    "a591de65-bf15-4634-b319-b81821c1e555",
+    "84153384-e05d-4348-9a7a-f1a07f4f0e57",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return",
+    "592699d8-5a40-4862-b910-d27346526906"
+  ]
+}

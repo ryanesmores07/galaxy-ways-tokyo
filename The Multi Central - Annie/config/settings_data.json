@@ -1,0 +1,993 @@
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#000000",
+    "color_price": "#1c1d1d",
+    "color_savings_text": "#c20000",
+    "color_borders": "#e8e8e1",
+    "color_button": "#000000",
+    "color_button_text": "#ffffff",
+    "color_sale_tag": "#1c1d1d",
+    "color_cart_dot": "#ff4f33",
+    "color_small_image_bg": "#ffffff",
+    "color_large_image_bg": "#ffffff",
+    "color_header": "#ffffff",
+    "color_header_text": "#000000",
+    "color_announcement": "#ffffff",
+    "color_announcement_text": "#000000",
+    "color_footer": "#000000",
+    "color_footer_text": "#ffffff",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#000000",
+    "color_drawer_border": "#000000",
+    "color_drawer_button": "#000000",
+    "color_drawer_button_text": "#ffffff",
+    "color_modal_overlays": "#e6e6e6",
+    "color_image_text": "#000000",
+    "color_image_overlay": "#ffffff",
+    "color_image_overlay_opacity": 0,
+    "color_image_overlay_text_shadow": 0,
+    "type_header_font_family": "abel_n4",
+    "--font_family_google_1": "",
+    "type_header_spacing": "25",
+    "type_header_base_size": 27,
+    "type_header_line_height": 1,
+    "type_header_capitalize": false,
+    "type_headers_align_text": true,
+    "type_base_font_family": "abel_n4",
+    "type_base_spacing": "50",
+    "type_base_size": 16,
+    "type_base_line_height": 1.4,
+    "type_body_align_text": true,
+    "type_navigation_style": "body",
+    "type_navigation_size": 14,
+    "type_navigation_capitalize": true,
+    "type_product_style": "body",
+    "type_product_capitalize": false,
+    "type_collection_font": "body",
+    "type_collection_size": 20,
+    "button_style": "angled",
+    "icon_weight": "2px",
+    "icon_linecaps": "round",
+    "product_save_amount": false,
+    "vendor_enable": false,
+    "quick_shop_enable": true,
+    "quick_shop_text": "Quick view",
+    "product_grid_image_size": "natural",
+    "product_hover_image": true,
+    "enable_swatches": true,
+    "enable_product_reviews": true,
+    "collection_grid_style": "overlaid-box",
+    "collection_grid_shape": "square",
+    "collection_grid_image": "product",
+    "collection_grid_text_align": "center",
+    "collection_grid_tint": "#000000",
+    "collection_grid_opacity": 10,
+    "collection_grid_gutter": true,
+    "cart_type": "drawer",
+    "cart_notes_enable": false,
+    "cart_terms_conditions_enable": false,
+    "social_facebook_link": "https:\/\/www.facebook.com\/themulticentral",
+    "social_twitter_link": "",
+    "social_pinterest_link": "https:\/\/www.pinterest.com.au\/TheMultiCentral\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/themulticentral\/",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@themulticentral",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC-6eR5qoWQpRvVGwZxPfaCQ",
+    "show_breadcrumbs": true,
+    "show_breadcrumbs_collection_link": true,
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#111111",
+    "checkout_button_color": "#111111",
+    "checkout_error_color": "#ff6d6d",
+    "font_family_google_1": "Lexend",
+    "font_family_google": "",
+    "breadcrumb": false,
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "1524770014057": {
+            "type": "logo",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/logo.png",
+              "logo-inverted": "shopify:\/\/shop_images\/logo.png",
+              "desktop_logo_width": 140,
+              "mobile_logo_width": 100
+            }
+          },
+          "7c8a9575-9762-498c-9442-4147948c6622": {
+            "type": "announcement",
+            "settings": {
+              "text": "Get up to 44% off + free shipping",
+              "c-ann-type_header_base_size": 60,
+              "link_text": "",
+              "link": "shopify:\/\/collections\/shop-all"
+            }
+          }
+        },
+        "block_order": [
+          "1524770014057",
+          "7c8a9575-9762-498c-9442-4147948c6622"
+        ],
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "mega_menu_images": true,
+          "main_menu_alignment": "left-center",
+          "header_style": "sticky",
+          "sticky_index": false,
+          "sticky_collection": false,
+          "announcement_compact": true,
+          "announcement_above_header": true,
+          "toolbar_menu": "",
+          "toolbar_social": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "show_currency_flags": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1494301487049": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "quick-links",
+              "container_width": 25
+            }
+          },
+          "f023612a-8239-4b07-99b7-3efdda4249bd": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": false,
+              "menu": "footer",
+              "container_width": 25
+            }
+          },
+          "1494292487693": {
+            "type": "newsletter",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Sign up to our newsletter",
+              "text": "<p>The statements on this website have not been evaluated by the FDA or TGA. The information provided on this site is not intended to diagnose, treat, cure, or prevent specific diseases of medical conditions. This site is for education and informational purposes and should not be construed as medical advice. A qualified health professional should always be consulted prior to using these products, and professional medical attention should be sought with in regards to any serious or life-threatening conditions. Our products are low-risk, general wellness \/ fitness products that do not require FDA clearance, in accordance with the \"General Wellness: Policy on Low Risk Devices\" draft released January 20, 2021.<\/p>",
+              "container_width": 50
+            }
+          }
+        },
+        "block_order": [
+          "1494301487049",
+          "f023612a-8239-4b07-99b7-3efdda4249bd",
+          "1494292487693"
+        ],
+        "settings": {
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "show_currency_flags": false,
+          "show_payment_icons": true,
+          "show_copyright": true,
+          "copyright_text": ""
+        }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "blocks": {
+          "reminder-block": {
+            "type": "header",
+            "disabled": true,
+            "settings": {
+              "reminder_label": "Get 10% off"
+            }
+          }
+        },
+        "block_order": [
+          "reminder-block"
+        ],
+        "settings": {
+          "mode": true,
+          "disable_for_account_holders": true,
+          "popup_seconds": 5,
+          "popup_days": 30,
+          "popup_title": "Sign up and save",
+          "popup_text": "<p>Get 10% off your first purchase by joining our mailing list, and receive some of the best deals possible<\/p>",
+          "popup_image": "shopify:\/\/shop_images\/Intense_Skin_Bundle_13.png",
+          "image_position": "left",
+          "show_social_icons": true,
+          "enable_newsletter": true,
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "settings": {
+          "enable": true,
+          "collection_image_enable": true,
+          "parallax": true
+        }
+      },
+      "age-verification-popup": {
+        "type": "age-verification-popup",
+        "settings": {
+          "enable_age_verification_popup": false,
+          "enable_test_mode": false,
+          "blur_image": false,
+          "heading": "Confirm your age",
+          "text": "<p>Are you 18 years old or older?<\/p>",
+          "decline_button_label": "No I'm not",
+          "approve_button_label": "Yes I am",
+          "decline_heading": "Come back when you're older",
+          "decline_text": "<p>Sorry, the content of this store can't be seen by a younger audience. Come back when you're older.<\/p>",
+          "return_button_label": "Oops, I entered incorrectly"
+        }
+      },
+      "footer-promotions": {
+        "type": "footer-promotions",
+        "blocks": {
+          "footer-promotions-0": {
+            "type": "promotion",
+            "disabled": true,
+            "settings": {
+              "enable_image": true,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          },
+          "footer-promotions-1": {
+            "type": "promotion",
+            "disabled": true,
+            "settings": {
+              "enable_image": true,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          },
+          "footer-promotions-2": {
+            "type": "promotion",
+            "disabled": true,
+            "settings": {
+              "enable_image": true,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "footer-promotions-0",
+          "footer-promotions-1",
+          "footer-promotions-2"
+        ],
+        "settings": {
+          "hide_homepage": false,
+          "image_size": "wide"
+        }
+      },
+      "c-product-suggesstion": {
+        "type": "c-product-suggesstion",
+        "blocks": {
+          "35d5bc88-daad-4dc2-bd40-018b02ae0a5b": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "bare-skin-bundle-glow-silken",
+              "c-product": "shopify:\/\/shop_images\/22_1400x_70438d37-9608-475b-95ad-28afd6f12b4b.webp",
+              "c-p-name": "Bare Skin Bundle (Glow + Silken) (opens a new window)",
+              "c-location": "in London, UK",
+              "k-time": "about 21 minutes ago"
+            }
+          },
+          "0f93d69c-5e50-4f13-ba51-aea27b9ebd15": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "intense-skin-bundle-luxe-prestige-iconic",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_39.png",
+              "c-p-name": "Intense Skin Bundle (Luxe + Prestige + Iconic)",
+              "c-location": "in Toronto, Canada",
+              "k-time": "about 1 minutes ago"
+            }
+          },
+          "ca682b7f-82d0-498b-aac8-d090370adbe1": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "multipro-series",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_57.png",
+              "c-p-name": "MultiPRO Series - Red Light Therapy",
+              "c-location": "in Melbourne, Australia",
+              "k-time": "about 2 minutes ago"
+            }
+          },
+          "9f024305-8f87-4b80-bc3d-2b0a16db9e6f": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "luxe-multifunctional-rejuvenating-cleansing-brush",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_27_d0a146e5-eb0e-46aa-81b9-c905f7d7c6a2.png",
+              "c-p-name": "Luxe - Cleansing Brush",
+              "c-location": "in Belfast, UK",
+              "k-time": "about 26 minutes ago"
+            }
+          },
+          "fca51785-a740-4c1a-bea1-cfee9823fbfe": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "prestige-advanced-3-in-1-light-therapy-skincare-device",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_35.png",
+              "c-p-name": "Prestige - Advanced 2-in-1 Light Therapy Skincare Device",
+              "c-location": "in Melbourne, UK",
+              "k-time": "about 11 minutes ago"
+            }
+          },
+          "0ce06829-2044-4ba4-8084-c8730623757d": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "multipro-series",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+              "c-p-name": "MultiPRO Series - Red Light Therapy",
+              "c-location": "in Ontario, Canada",
+              "k-time": "about 16 minutes ago"
+            }
+          },
+          "f7497b70-dc33-47c9-8201-0b2c1888f24b": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "multipro-series",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+              "c-p-name": "MultiPRO Series - Red Light Therapy",
+              "c-location": "in New York, United States",
+              "k-time": "about 12 minutes ago"
+            }
+          },
+          "b79498fe-8cb7-40a2-aa40-f405507855a7": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "signature-skin-bundle-luxe-prestige-silken",
+              "c-product": "shopify:\/\/shop_images\/e_37.png",
+              "c-p-name": "Signature Skin Bundle (Luxe + Prestige + Silken)",
+              "c-location": "in Florida, United States",
+              "k-time": "about 8 minutes ago"
+            }
+          },
+          "7659bfd2-7752-4fa1-aeff-b94b0b3ead7a": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "multipro-red-light-horizontal-stand",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_67_ee54d9f7-7d4f-4073-aae1-34c6694aa836.png",
+              "c-p-name": "MultiPRO Red Light 2-in-1 Premium Horizontal\/Vertical Stand",
+              "c-location": "in New York, United States",
+              "k-time": "about 20 minutes ago"
+            }
+          },
+          "cc1138b2-be41-49e8-b3d4-bd0d7fb53c19": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "blossom-skin-bundle-evolve-iconic",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_38.png",
+              "c-p-name": "Blossom Skin Bundle (Evolve + Iconic)",
+              "c-location": "in Hamburg, Germany",
+              "k-time": "about 28 minutes ago"
+            }
+          },
+          "a97629ca-222f-48ef-93fb-0adc955018a5": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "luxe-multifunctional-rejuvenating-cleansing-brush",
+              "c-product": "shopify:\/\/shop_images\/IPLLASER_27_d0a146e5-eb0e-46aa-81b9-c905f7d7c6a2_1.png",
+              "c-p-name": "Luxe - Cleansing Brush",
+              "c-location": "in Ontario, Canada",
+              "k-time": "about 46 minutes ago"
+            }
+          },
+          "a49f1add-5781-405e-ad26-815065b0c212": {
+            "type": "image_picker",
+            "settings": {
+              "c-product_1": "multipro-series",
+              "c-product": "shopify:\/\/shop_images\/e_28.png",
+              "c-p-name": "MultiPRO Series - Red Light Therapy",
+              "c-location": "in California, United States",
+              "k-time": "about 29 minutes ago"
+            }
+          }
+        },
+        "block_order": [
+          "35d5bc88-daad-4dc2-bd40-018b02ae0a5b",
+          "0f93d69c-5e50-4f13-ba51-aea27b9ebd15",
+          "ca682b7f-82d0-498b-aac8-d090370adbe1",
+          "9f024305-8f87-4b80-bc3d-2b0a16db9e6f",
+          "fca51785-a740-4c1a-bea1-cfee9823fbfe",
+          "0ce06829-2044-4ba4-8084-c8730623757d",
+          "f7497b70-dc33-47c9-8201-0b2c1888f24b",
+          "b79498fe-8cb7-40a2-aa40-f405507855a7",
+          "7659bfd2-7752-4fa1-aeff-b94b0b3ead7a",
+          "cc1138b2-be41-49e8-b3d4-bd0d7fb53c19",
+          "a97629ca-222f-48ef-93fb-0adc955018a5",
+          "a49f1add-5781-405e-ad26-815065b0c212"
+        ],
+        "settings": {
+          "para2": "",
+          "minutesAgo": ""
+        }
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "12120936241911852800": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+          "position": "right"
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": true,
+        "settings": {}
+      }
+    }
+  },
+  "presets": {
+    "Modern": {
+      "breadcrumb": false,
+      "button_style": "square",
+      "cart_notes_enable": false,
+      "cart_terms_conditions_enable": false,
+      "cart_type": "drawer",
+      "checkout_accent_color": "#111111",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_sidebar_background_color": "#fafafa",
+      "collection_grid_gutter": true,
+      "collection_grid_image": "product",
+      "collection_grid_opacity": 10,
+      "collection_grid_shape": "square",
+      "collection_grid_style": "overlaid-box",
+      "collection_grid_text_align": "center",
+      "collection_grid_tint": "#000000",
+      "color_announcement": "#0f0f0f",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_borders": "#e8e8e1",
+      "color_button": "#111111",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#ff4f33",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_border": "#e8e8e1",
+      "color_drawer_button": "#111111",
+      "color_drawer_button_text": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_footer": "#ffffff",
+      "color_footer_text": "#000000",
+      "color_header": "#ffffff",
+      "color_header_text": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_text_shadow": 20,
+      "color_large_image_bg": "#0f0f0f",
+      "color_modal_overlays": "#e6e6e6",
+      "color_price": "#1c1d1d",
+      "color_savings_text": "#C20000",
+      "color_small_image_bg": "#ffffff",
+      "icon_linecaps": "miter",
+      "icon_weight": "2px",
+      "product_grid_image_size": "natural",
+      "product_hover_image": false,
+      "quick_shop_text": "Quick view",
+      "type_base_font_family": "twentieth_century_n4",
+      "type_base_line_height": 1.4,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_body_align_text": true,
+      "type_collection_font": "body",
+      "type_collection_size": 20,
+      "type_header_base_size": 36,
+      "type_header_capitalize": true,
+      "type_header_font_family": "tenor_sans_n4",
+      "type_header_line_height": 1,
+      "type_header_spacing": "0",
+      "type_headers_align_text": true,
+      "type_navigation_capitalize": true,
+      "type_navigation_size": 16,
+      "type_navigation_style": "body",
+      "type_product_style": "body",
+      "sections": {
+        "header": {
+          "type": "header",
+          "blocks": {
+            "1524770014057": {
+              "type": "logo",
+              "settings": {
+                "desktop_logo_width": 140,
+                "mobile_logo_width": 110
+              }
+            },
+            "1524770292306": {
+              "type": "announcement",
+              "settings": {
+                "text": "Free shipping",
+                "link_text": "On all orders over $100"
+              }
+            },
+            "1524770296206": {
+              "type": "announcement",
+              "settings": {
+                "text": "Hassle-free returns",
+                "link_text": "30-day postage paid returns"
+              }
+            }
+          },
+          "block_order": [
+            "1524770014057",
+            "1524770292306",
+            "1524770296206"
+          ],
+          "settings": {
+            "main_menu_link_list": "main-menu",
+            "main_menu_alignment": "center-split",
+            "header_style": "sticky",
+            "sticky_index": false,
+            "sticky_collection": false,
+            "announcement_compact": true,
+            "toolbar_menu": "top",
+            "toolbar_social": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1494301487048": {
+              "type": "logo_social",
+              "settings": {
+                "container_width": 95
+              }
+            },
+            "1494301487049": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "container_width": 25
+              }
+            },
+            "1494292487693": {
+              "type": "newsletter",
+              "settings": {
+                "container_width": 33
+              }
+            }
+          },
+          "block_order": [
+            "1494301487049",
+            "1494292487693",
+            "1494301487048"
+          ],
+          "settings": {
+            "show_payment_icons": false
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "blocks": {
+            "reminder-block": {
+              "type": "header",
+              "disabled": true,
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "reminder-block"
+          ],
+          "settings": {}
+        },
+        "collection-header": {
+          "type": "collection-header",
+          "settings": {
+            "enable": true,
+            "collection_image_enable": true,
+            "parallax": true
+          }
+        }
+      }
+    },
+    "Clean": {
+      "show_breadcrumbs": true,
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_price": "#1c1d1d",
+      "color_savings_text": "#ff4e4e",
+      "color_borders": "#e8e8e1",
+      "color_button": "#111111",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#ff4f33",
+      "color_small_image_bg": "#e5e5e5",
+      "color_large_image_bg": "#0f0f0f",
+      "color_header": "#ffffff",
+      "color_header_text": "#000000",
+      "color_announcement": "#0f0f0f",
+      "color_announcement_text": "#ffffff",
+      "color_footer": "#ffffff",
+      "color_footer_text": "#000000",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_drawer_border": "#e8e8e1",
+      "color_drawer_button": "#111111",
+      "color_drawer_button_text": "#ffffff",
+      "color_modal_overlays": "#e6e6e6",
+      "color_image_overlay_opacity": 0,
+      "color_image_overlay_text_shadow": 24,
+      "type_header_font_family": "basic_commercial_n7",
+      "type_header_spacing": "25",
+      "type_header_base_size": 38,
+      "type_header_line_height": 1,
+      "type_header_capitalize": false,
+      "type_headers_align_text": false,
+      "type_base_font_family": "basic_commercial_n4",
+      "type_base_spacing": "25",
+      "type_base_size": 16,
+      "type_base_line_height": 1.6,
+      "type_body_align_text": false,
+      "type_navigation_style": "body",
+      "type_navigation_size": 18,
+      "type_navigation_capitalize": false,
+      "type_product_style": "heading",
+      "type_product_capitalize": false,
+      "type_collection_font": "body",
+      "type_collection_size": 24,
+      "button_style": "square",
+      "icon_weight": "4px",
+      "icon_linecaps": "miter",
+      "quick_shop_text": "Quick view",
+      "product_grid_image_size": "square",
+      "product_hover_image": true,
+      "collection_grid_style": "overlaid",
+      "collection_grid_shape": "square",
+      "collection_grid_image": "collection",
+      "collection_grid_text_align": "center",
+      "collection_grid_tint": "#000000",
+      "collection_grid_opacity": 20,
+      "collection_grid_gutter": true,
+      "cart_type": "drawer",
+      "cart_notes_enable": false,
+      "cart_terms_conditions_enable": false,
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#f5f5f5",
+      "checkout_accent_color": "#682d2d",
+      "checkout_button_color": "#682d2d",
+      "checkout_error_color": "#ff6d6d",
+      "product_fixed_image_height": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "blocks": {
+            "1520882467782": {
+              "type": "logo",
+              "settings": {
+                "logo": "",
+                "logo-inverted": "",
+                "desktop_logo_width": 200,
+                "mobile_logo_width": 140
+              }
+            },
+            "1521051841065": {
+              "type": "announcement",
+              "settings": {
+                "text": "Free shipping",
+                "link_text": "On all orders over $100",
+                "link": "shopify:\/\/collections\/all"
+              }
+            },
+            "1520888647304": {
+              "type": "announcement",
+              "settings": {
+                "text": "Hassle-free returns",
+                "link_text": "30-day postage paid returns",
+                "link": "shopify:\/\/collections\/all"
+              }
+            }
+          },
+          "block_order": [
+            "1520882467782",
+            "1521051841065",
+            "1520888647304"
+          ],
+          "settings": {
+            "main_menu_link_list": "main-menu",
+            "mega_menu_images": true,
+            "main_menu_alignment": "left-center",
+            "header_style": "sticky",
+            "sticky_index": true,
+            "sticky_collection": true,
+            "announcement_compact": true,
+            "announcement_above_header": true,
+            "toolbar_menu": "",
+            "toolbar_social": true,
+            "show_locale_selector": true,
+            "show_currency_selector": true,
+            "show_currency_flags": true
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1494301487049": {
+              "type": "menu",
+              "settings": {
+                "show_footer_title": false,
+                "menu": "footer",
+                "container_width": 25
+              }
+            },
+            "1494292487693": {
+              "type": "newsletter",
+              "settings": {
+                "show_footer_title": true,
+                "title": "Sign up and save",
+                "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+                "container_width": 30
+              }
+            },
+            "1494301487048": {
+              "type": "logo_social",
+              "settings": {
+                "logo": "",
+                "desktop_logo_height": 50,
+                "container_width": 95
+              }
+            }
+          },
+          "block_order": [
+            "1494301487049",
+            "1494292487693",
+            "1494301487048"
+          ],
+          "settings": {
+            "show_locale_selector": true,
+            "show_currency_selector": true,
+            "show_currency_flags": true,
+            "show_payment_icons": false,
+            "show_copyright": false,
+            "copyright_text": ""
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": false,
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "popup_title": "Sign up and save",
+            "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+            "popup_image": "",
+            "enable_newsletter": true,
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "collection-header": {
+          "type": "collection-header",
+          "settings": {
+            "enable": true,
+            "collection_image_enable": true,
+            "parallax": true
+          }
+        },
+        "footer-promotions": {
+          "type": "footer-promotions",
+          "blocks": {
+            "footer-promotions-0": {
+              "type": "promotion",
+              "settings": {
+                "enable_image": true,
+                "image": "",
+                "title": "Site-wide promotion",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "button_label": "Optional button",
+                "button_link": ""
+              }
+            },
+            "footer-promotions-1": {
+              "type": "promotion",
+              "settings": {
+                "enable_image": true,
+                "image": "",
+                "title": "Site-wide promotion",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "button_label": "Optional button",
+                "button_link": ""
+              }
+            },
+            "footer-promotions-2": {
+              "type": "promotion",
+              "settings": {
+                "enable_image": true,
+                "image": "",
+                "title": "Site-wide promotion",
+                "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+                "button_label": "Optional button",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "footer-promotions-0",
+            "footer-promotions-1",
+            "footer-promotions-2"
+          ],
+          "settings": {
+            "hide_homepage": false,
+            "image_size": "wide"
+          }
+        }
+      }
+    },
+    "Bold": {
+      "color_body_bg": "#000000",
+      "color_body_text": "#ffffff",
+      "color_price": "#d1ba98",
+      "color_savings_text": "#b30000",
+      "color_borders": "#2b2a27",
+      "color_button": "#9f8561",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#b30000",
+      "color_small_image_bg": "#000000",
+      "color_large_image_bg": "#111111",
+      "color_header": "#000000",
+      "color_header_text": "#ffffff",
+      "color_announcement": "#cf2424",
+      "color_announcement_text": "#ffffff",
+      "color_footer": "#000000",
+      "color_footer_text": "#ffffff",
+      "color_drawer_background": "#000000",
+      "color_drawer_text": "#ffffff",
+      "color_drawer_border": "#2b2a27",
+      "color_drawer_button": "#9f8561",
+      "color_drawer_button_text": "#ffffff",
+      "color_modal_overlays": "#67635d",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 15,
+      "color_image_overlay_text_shadow": 30,
+      "type_header_font_family": "fjalla_one_n4",
+      "type_header_spacing": "150",
+      "type_header_base_size": 45,
+      "type_header_line_height": 1.2,
+      "type_header_capitalize": true,
+      "type_headers_align_text": true,
+      "type_base_font_family": "itc_conduit_n4",
+      "type_base_spacing": "50",
+      "type_base_size": 18,
+      "type_base_line_height": 1.4,
+      "type_body_align_text": true,
+      "type_navigation_style": "heading",
+      "type_navigation_size": 18,
+      "type_product_style": "heading",
+      "type_collection_font": "heading",
+      "type_collection_size": 23,
+      "button_style": "angled",
+      "icon_weight": "5px",
+      "icon_linecaps": "miter",
+      "search_enable": false,
+      "product_save_amount": true,
+      "quick_shop_enable": true,
+      "quick_shop_text": "Quick view",
+      "product_grid_image_size": "square",
+      "product_hover_image": false,
+      "product_content_collapse_1": false,
+      "product_content_collapse_2": true,
+      "product_content_collapse_3": true,
+      "collection_grid_style": "overlaid-box",
+      "collection_grid_shape": "landscape",
+      "collection_grid_image": "collection",
+      "collection_grid_text_align": "bottom-center",
+      "collection_grid_tint": "#000000",
+      "collection_grid_opacity": 10,
+      "collection_grid_gutter": true,
+      "cart_type": "drawer",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#000000",
+      "checkout_input_background_color_mode": "transparent",
+      "checkout_sidebar_background_color": "#000000",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#ae9878",
+      "checkout_button_color": "#ae9878",
+      "checkout_error_color": "#ff6d6d",
+      "color_image_2": "#cf2424",
+      "color_image_2_opacity": 0,
+      "color_image_1": "#6d1414",
+      "color_image_1_opacity": 0,
+      "type_accent_style": "body",
+      "type_accent_bold": true,
+      "type_accent_capitalize": true,
+      "type_button_font": "heading",
+      "type_button_capitalize": false,
+      "type_header_accent_transform": true,
+      "type_base_accent_transform": true,
+      "collection_grid_font": "heading",
+      "color_image_bg": "#000000",
+      "breadcrumb": true,
+      "color_sale_tag": "#990000",
+      "color_input": "#ffffff",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#a26b25",
+      "sections": {
+        "header": {
+          "type": "header",
+          "blocks": {
+            "1524768779513": {
+              "type": "logo",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1524768779513"
+          ],
+          "settings": {
+            "main_menu_link_list": "main-menu",
+            "main_menu_alignment": "left-center",
+            "header_style": "normal",
+            "sticky_index": true,
+            "sticky_collection": false,
+            "announcement_compact": false,
+            "toolbar_social": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1494292487693": {
+              "type": "newsletter",
+              "settings": {}
+            },
+            "1526406521795": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer",
+                "container_width": 25
+              }
+            },
+            "1525444454442": {
+              "type": "logo_social",
+              "settings": {
+                "container_width": 95
+              }
+            }
+          },
+          "block_order": [
+            "1494292487693",
+            "1526406521795",
+            "1525444454442"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {}
+        },
+        "collection-header": {
+          "type": "collection-header",
+          "settings": {
+            "enable": true,
+            "collection_image_enable": false,
+            "parallax": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "f98c5894-d5e6-490b-9a55-af9e501c06a7": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "gift",
+            "text": "Free Silken Crystal Hair Removal Tool With Purchase."
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "15c06597-3f58-433e-ad37-782722bc4e28": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "ed7ae2a6-8b25-41c5-942a-8c742b75aa9a": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "cdcaf791-4668-4618-875f-313701969663": {
+          "type": "tab",
+          "settings": {
+            "title": "Safely remove unwanted hair with Evolve by The MultiCentral.",
+            "content": "<p>The Evolve Handset has been thoroughly tested to the most rigorous standards to deliver permanent results that won’t damage your skin.<\/p>",
+            "page": ""
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "What's included?",
+            "content": "<p>- Evolve - Ice IPL Handset<\/p><p>- User Guide<\/p><p>- Universal Plug<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p>",
+            "page": ""
+          }
+        },
+        "c99abf67-77f0-4a15-a58f-f060ace2924f": {
+          "type": "tab",
+          "settings": {
+            "title": "What is IPL?",
+            "content": "<p>IPL stands for intense pulsed light. It works similar to laser hair removal, only it’s way easier and safer to do at home.<\/p><p>Glow is a handheld device that targets unwanted hairs at the root and destroys them with light pulses (IPL) without burning or damaging your skin. It stops hair from growing back for long-term hair reduction.<\/p><p>IPL works in a similar way to laser therapy. The difference is that where laser therapy delivers a single wavelength of light energy, IPL delivers multiple wavelengths. This means that IPL can treat a larger area of skin in a shorter time than laser therapy.<\/p>",
+            "page": "laser"
+          }
+        },
+        "ac701186-df64-4c99-9874-24710ee75c1d": {
+          "type": "tab",
+          "settings": {
+            "title": "Will this work for my hair\/skin?",
+            "content": "<p>Yes! More than likely! <\/p><p>Although IPL actually works best on dark, coarse hair since it uses pigmentation to target the hair follicle.<\/p><p>Please use the below chart to see if Evolve works for you!<\/p>",
+            "page": "skin-hair-chart-evolve"
+          }
+        },
+        "0740a805-2547-414d-a9cd-9a23b20d6b54": {
+          "type": "tab",
+          "settings": {
+            "title": "How long until I see results?",
+            "content": "<p>Evolve is certified to deliver long-term hair removal after 12 uses, but chances are you’ll start to see a serious reduction in hair growth after just 3 or 4.<\/p><p>Some people experience complete and total hairlessness after around 12 uses and throw away their razors for good. Others sometimes require touch-ups beyond that, and that’s fine too! Evolve's 30+ year lifespan allows you to do as many touch-ups as you like, for as long as you like.<\/p><p>As long as you use Evolve as directed, you’ll enjoy a permanent reduction of hair growth!<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "f98c5894-d5e6-490b-9a55-af9e501c06a7",
+        "variant_picker",
+        "15c06597-3f58-433e-ad37-782722bc4e28",
+        "buy_buttons",
+        "ed7ae2a6-8b25-41c5-942a-8c742b75aa9a",
+        "cdcaf791-4668-4618-875f-313701969663",
+        "tab",
+        "c99abf67-77f0-4a15-a58f-f060ace2924f",
+        "ac701186-df64-4c99-9874-24710ee75c1d",
+        "0740a805-2547-414d-a9cd-9a23b20d6b54"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "b30f0162-fd9d-4572-bb82-5c63e8f0db6b": {
+      "type": "asSeenIn",
+      "blocks": {
+        "template--16127566020816__b30f0162-fd9d-4572-bb82-5c63e8f0db6b-1674846018af075354-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_271.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127566020816__b30f0162-fd9d-4572-bb82-5c63e8f0db6b-1674846018af075354-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/ocbc_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127566020816__b30f0162-fd9d-4572-bb82-5c63e8f0db6b-1674846018af075354-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_270.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16127566020816__b30f0162-fd9d-4572-bb82-5c63e8f0db6b-1674846018af075354-0",
+        "template--16127566020816__b30f0162-fd9d-4572-bb82-5c63e8f0db6b-1674846018af075354-1",
+        "template--16127566020816__b30f0162-fd9d-4572-bb82-5c63e8f0db6b-1674846018af075354-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "As Seen In",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1a44334a-a7aa-41b4-8a5d-afbe1aa6dc12": {
+      "type": "countdown",
+      "disabled": true,
+      "blocks": {
+        "template--16116215644368__1a44334a-a7aa-41b4-8a5d-afbe1aa6dc12-1670856853618effb9-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Receive a FREE Silken with your purchase! Don't miss out on this great deal!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116215644368__1a44334a-a7aa-41b4-8a5d-afbe1aa6dc12-1670856853618effb9-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "20",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215644368__1a44334a-a7aa-41b4-8a5d-afbe1aa6dc12-1670856853618effb9-0",
+        "template--16116215644368__1a44334a-a7aa-41b4-8a5d-afbe1aa6dc12-1670856853618effb9-1"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "0173f9f4-705c-47de-ab80-ac7f95d78225": {
+      "type": "c-richtext-logo",
+      "blocks": {
+        "faf9bb65-60ec-48d2-b3aa-bb2bc998e172": {
+          "type": "logo",
+          "settings": {
+            "c-logo": "shopify:\/\/shop_images\/urban-outfits2_1.png"
+          }
+        },
+        "template--16127566020816__0173f9f4-705c-47de-ab80-ac7f95d78225-1674017735be26a2ff-0": {
+          "type": "heading",
+          "settings": {
+            "c-sub-heading": "",
+            "title": "The hair-free guarantee"
+          }
+        },
+        "template--16127566020816__0173f9f4-705c-47de-ab80-ac7f95d78225-1674017735be26a2ff-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "c-email": "",
+            "text": "Try Evolve for 90 days. If you’ve still got hair to spare, we’ll hook you up with a full refund, no strings attached."
+          }
+        }
+      },
+      "block_order": [
+        "faf9bb65-60ec-48d2-b3aa-bb2bc998e172",
+        "template--16127566020816__0173f9f4-705c-47de-ab80-ac7f95d78225-1674017735be26a2ff-0",
+        "template--16127566020816__0173f9f4-705c-47de-ab80-ac7f95d78225-1674017735be26a2ff-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "3c83f135-c45c-4a84-b4c7-7edd3c77e5f4": {
+      "type": "c-product-video",
+      "disabled": true,
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4e8d97d0c9ea4f66a9f1ee78f994add6.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "bb9fe01c-a0ed-48f1-a046-5bea307b425b": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215644368__bb9fe01c-a0ed-48f1-a046-5bea307b425b-1671127252caca8082-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/25_1fbcd96e-dac2-4587-9d9f-2a0df14e6ea0.png",
+            "image_width": 650,
+            "title": "Smooth, soft skin",
+            "text": "<p>Hair removal is skincare. Evolve keeps your skin touchably smooth- without any stubble, strawberry legs or ingrown hairs, ever.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215644368__bb9fe01c-a0ed-48f1-a046-5bea307b425b-1671127252caca8082-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/27_6f78b194-f89a-4a43-9f2a-40bfe549d25b.png",
+            "image_width": 650,
+            "title": "Save time & money",
+            "text": "<p>Swap out the time and money you'd spend on laser, in-salon waxing, or annoying razors for affordable, long- term hair removal.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215644368__bb9fe01c-a0ed-48f1-a046-5bea307b425b-1671127252caca8082-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/26.png",
+            "image_width": 650,
+            "title": "Beauty, minus pain",
+            "text": "<p>Say a loud \"see ya never\" to cuts, razor burn, irritation, or bracing yourself for the next pull during a bikini wax. All in the comfort of your home.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "76499818-fa4a-4a1e-a66f-b729a814db0b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/28_01d1ad75-00fc-4c4f-8309-406004d33c0e.png",
+            "image_width": 650,
+            "title": "Less flashing.... ;)",
+            "text": "<p>Spare the salon and keep your V to yourself (when it comes to hair removal, that is.) Super discreet permanent hair removal.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d643f5b0-ded2-41f8-9e11-f016ab57e856": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215644368__bb9fe01c-a0ed-48f1-a046-5bea307b425b-1671127252caca8082-0",
+        "template--16116215644368__bb9fe01c-a0ed-48f1-a046-5bea307b425b-1671127252caca8082-1",
+        "template--16116215644368__bb9fe01c-a0ed-48f1-a046-5bea307b425b-1671127252caca8082-2",
+        "76499818-fa4a-4a1e-a66f-b729a814db0b",
+        "d643f5b0-ded2-41f8-9e11-f016ab57e856"
+      ],
+      "custom_css": [
+        "h2 {font-size: 26px !important;}"
+      ],
+      "settings": {
+        "c-sub-heading": "THE BENEFITS",
+        "title": "What Evolve Can Do For You",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "34a98e9a-c6dd-43eb-ab0b-482d5a1f9eb9": {
+      "type": "c-richtext-logo",
+      "blocks": {
+        "4443ecfd-b2b2-4622-8d66-e6054801d381": {
+          "type": "logo",
+          "settings": {
+            "c-logo": "shopify:\/\/shop_images\/FDA_CLEARED_1.png"
+          }
+        },
+        "template--16127566020816__34a98e9a-c6dd-43eb-ab0b-482d5a1f9eb9-1674018510fadeb0a6-0": {
+          "type": "heading",
+          "settings": {
+            "c-sub-heading": "",
+            "title": "FDA Approved, Skin-Safe Technology"
+          }
+        },
+        "template--16127566020816__34a98e9a-c6dd-43eb-ab0b-482d5a1f9eb9-1674018510fadeb0a6-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "c-email": "",
+            "text": "The Evolve Handset has been thoroughly tested to the most rigorous standards to deliver permanent results that won’t damage your skin."
+          }
+        }
+      },
+      "block_order": [
+        "4443ecfd-b2b2-4622-8d66-e6054801d381",
+        "template--16127566020816__34a98e9a-c6dd-43eb-ab0b-482d5a1f9eb9-1674018510fadeb0a6-0",
+        "template--16127566020816__34a98e9a-c6dd-43eb-ab0b-482d5a1f9eb9-1674018510fadeb0a6-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "b1a190f1-7ffa-429a-a1c5-591bf7708fb3": {
+      "type": "c-left-right-text",
+      "blocks": {
+        "template--16127566020816__b1a190f1-7ffa-429a-a1c5-591bf7708fb3-167401936884dc7a37-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "Less hair, more savings",
+            "text": "<p>Other hair removal options cost an arm and a leg. The evolve handset permanently gets rid of unwanted hair on your arms and your legs, without breaking the bank.<\/p>",
+            "title2": ""
+          }
+        },
+        "template--16127566020816__b1a190f1-7ffa-429a-a1c5-591bf7708fb3-167401936884dc7a37-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "text": "",
+            "title2": "<div class=\"topcost\">\n<p>Shaving <strong>$480*<\/strong><\/p> <p>Waxing <strong>$3,120*<\/strong><\/p> <p>Laser <strong>$2,500**<\/strong><\/p>\n<\/div>\n\n<div class=\"total\">Evolve <strong>Just $241<\/strong>\n<\/div>\n<p>\n*Cost evaluated over 4 years<br>\n**Cost of standard out-of-home treatments.\n<\/p>"
+          }
+        },
+        "template--16127566020816__b1a190f1-7ffa-429a-a1c5-591bf7708fb3-167401936884dc7a37-2": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title2": "<p>Evolve<\/p>"
+          }
+        },
+        "31a0c75d-e140-4503-ae73-d103fa02fe83": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title2": "<p>Evolve<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16127566020816__b1a190f1-7ffa-429a-a1c5-591bf7708fb3-167401936884dc7a37-0",
+        "template--16127566020816__b1a190f1-7ffa-429a-a1c5-591bf7708fb3-167401936884dc7a37-1",
+        "template--16127566020816__b1a190f1-7ffa-429a-a1c5-591bf7708fb3-167401936884dc7a37-2",
+        "31a0c75d-e140-4503-ae73-d103fa02fe83"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "",
+        "c-rich_text": "",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "f8d0edf2-d818-4552-bfa4-983c8465b9e7": {
+      "type": "image-compare",
+      "blocks": {
+        "template--16116215644368__f8d0edf2-d818-4552-bfa4-983c8465b9e7-167112737402d93b44-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_aab290c6-0bbf-4fa9-afb5-087cd517eeec.png"
+          }
+        },
+        "template--16116215644368__f8d0edf2-d818-4552-bfa4-983c8465b9e7-167112737402d93b44-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_93f420f7-f436-479b-8afb-264d8bf92012.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215644368__f8d0edf2-d818-4552-bfa4-983c8465b9e7-167112737402d93b44-0",
+        "template--16116215644368__f8d0edf2-d818-4552-bfa4-983c8465b9e7-167112737402d93b44-1"
+      ],
+      "settings": {
+        "heading": "REAL PEOPLE, REAL RESULTS",
+        "subheading": "",
+        "heading_size": "h1",
+        "heading_position": "left",
+        "fullwidth": true,
+        "slider_style": "classic",
+        "height": 600,
+        "color": "#ffffff"
+      }
+    },
+    "4300e429-52fe-469d-ab4d-34981092420a": {
+      "type": "c-chart",
+      "blocks": {
+        "template--16116215644368__4300e429-52fe-469d-ab4d-34981092420a-1671126699aa6afe40-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/20_70a25ae1-5aa7-466e-9e81-79f7980169a3.png",
+            "image_width": 650,
+            "title": "EVOLVE",
+            "text": "<p>Take care of your hair at home Privacy & convenience<\/p>",
+            "text_2": "<p>Do it at your own pace<\/p>",
+            "text_3": "<p>Affordable one-time cost WAY cheaper<\/p>",
+            "text_4": "<p>Completely pain-free Gentle treatments with cooling effect<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215644368__4300e429-52fe-469d-ab4d-34981092420a-1671126699aa6afe40-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/21_6ac4d905-44d2-46f0-8641-3bf686bc4e4f.png",
+            "image_width": 650,
+            "title": "SHAVING",
+            "text": "<p>Shave constantly to keep body hair in check<\/p>",
+            "text_2": "<p>Deal with razor bumps, irritation, and cuts<\/p>",
+            "text_3": "<p>Hard to get a close shave, let alone smooth skin that lasts<\/p>",
+            "text_4": "<p>An affordable but recurring expense<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215644368__4300e429-52fe-469d-ab4d-34981092420a-1671126699aa6afe40-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/22_a09e918e-2071-466b-b84b-d5a9d4991882.png",
+            "image_width": 650,
+            "title": "WAXING",
+            "text": "<p>Hot wax literally rips your hair off your body. Ouch!<\/p>",
+            "text_2": "<p>Have a stranger remove your hair (even down there)<\/p>",
+            "text_3": "<p>Travel to a salon or brave the at-home wax kits<\/p>",
+            "text_4": "<p>Get waxed every 2-5 weeks… forever<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "0fdb9265-1b26-48b4-9691-2fd28f43cc80": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/23_90d68228-58da-4ea6-95e9-55519bb3a451.png",
+            "image_width": 650,
+            "title": "CLINICAL LASER",
+            "text": "<p>Bring your hairy self all the way to a clinic<\/p>",
+            "text_2": "<p>Wait 4-6 weeks between each session<\/p>",
+            "text_3": "<p>Avg Cost: 2-3x Evolve's price per session (and you'll prob need 4-8+)<\/p>",
+            "text_4": "<p>Painful, especially on underarms & bikini areas<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215644368__4300e429-52fe-469d-ab4d-34981092420a-1671126699aa6afe40-0",
+        "template--16116215644368__4300e429-52fe-469d-ab4d-34981092420a-1671126699aa6afe40-1",
+        "template--16116215644368__4300e429-52fe-469d-ab4d-34981092420a-1671126699aa6afe40-2",
+        "0fdb9265-1b26-48b4-9691-2fd28f43cc80"
+      ],
+      "custom_css": [
+        "h2 {font-size: 26px !important;}"
+      ],
+      "settings": {
+        "title": "Compare The Difference",
+        "align_text": "left",
+        "divider": false
+      }
+    },
+    "ee9ea0dd-2b2c-46c6-96ca-9105c4304ccf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "0068be69-72e6-42a5-86ed-a6235c32e335": {
+      "type": "c-p-image-text-colunm",
+      "disabled": true,
+      "blocks": {
+        "template--16116215644368__0068be69-72e6-42a5-86ed-a6235c32e335-1671127252caca8082-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>MULTIPRO SERIES<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/multipro-series"
+          }
+        },
+        "template--16116215644368__0068be69-72e6-42a5-86ed-a6235c32e335-1671127252caca8082-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_38.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>BLOSSOM SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/blossom-skin-bundle-evolve-iconic"
+          }
+        },
+        "template--16116215644368__0068be69-72e6-42a5-86ed-a6235c32e335-1671127252caca8082-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/e_37.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>SIGNATURE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/signature-skin-bundle-luxe-prestige-silken"
+          }
+        },
+        "8af7c8fa-2fd6-4d88-a4db-126db1514a94": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_39.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>INTENSE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/intense-skin-bundle-luxe-prestige-iconic"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215644368__0068be69-72e6-42a5-86ed-a6235c32e335-1671127252caca8082-0",
+        "template--16116215644368__0068be69-72e6-42a5-86ed-a6235c32e335-1671127252caca8082-1",
+        "template--16116215644368__0068be69-72e6-42a5-86ed-a6235c32e335-1671127252caca8082-2",
+        "8af7c8fa-2fd6-4d88-a4db-126db1514a94"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "BUNDLE & SAVE",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "558346a3-8515-4513-b4a3-3521fc9b65e8": {
+      "type": "instafeed",
+      "custom_css": [],
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center!important\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    },
+    "a9e420ad-b0cc-4172-a683-4ae9ad3564af": {
+      "type": "c-image-with-text",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.",
+        "text_1": "Image with text",
+        "text_2": "Image with text",
+        "text_3": "Image with text",
+        "text_4": "Image with text",
+        "text_5": "Image with text",
+        "text_6": "Image with text",
+        "text_7": "Image with text",
+        "text_8": "Image with text",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "9fb5c530-a09b-4c0b-a030-e1634d7de770": {
+      "type": "c-text-column",
+      "disabled": true,
+      "blocks": {
+        "template--16127566020816__9fb5c530-a09b-4c0b-a030-e1634d7de770-16740185108dd2ad1a-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--16127566020816__9fb5c530-a09b-4c0b-a030-e1634d7de770-16740185108dd2ad1a-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "template--16127566020816__9fb5c530-a09b-4c0b-a030-e1634d7de770-16740185108dd2ad1a-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16127566020816__9fb5c530-a09b-4c0b-a030-e1634d7de770-16740185108dd2ad1a-0",
+        "template--16127566020816__9fb5c530-a09b-4c0b-a030-e1634d7de770-16740185108dd2ad1a-1",
+        "template--16127566020816__9fb5c530-a09b-4c0b-a030-e1634d7de770-16740185108dd2ad1a-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "",
+        "c-rich_text": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "9b593ad3-aa5d-4320-939c-a665b4946e06": {
+      "type": "c-left-right-text",
+      "disabled": true,
+      "blocks": {
+        "template--16127566020816__9b593ad3-aa5d-4320-939c-a665b4946e06-1674019227e1dda776-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title2": "<p>Evolve<\/p>"
+          }
+        },
+        "template--16127566020816__9b593ad3-aa5d-4320-939c-a665b4946e06-1674019227e1dda776-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title2": "<p>Evolve<\/p>"
+          }
+        },
+        "template--16127566020816__9b593ad3-aa5d-4320-939c-a665b4946e06-1674019227e1dda776-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title2": "<p>Evolve<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16127566020816__9b593ad3-aa5d-4320-939c-a665b4946e06-1674019227e1dda776-0",
+        "template--16127566020816__9b593ad3-aa5d-4320-939c-a665b4946e06-1674019227e1dda776-1",
+        "template--16127566020816__9b593ad3-aa5d-4320-939c-a665b4946e06-1674019227e1dda776-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "",
+        "c-rich_text": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "16760359151469db94": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "5d1a3df5-17f8-43a8-b3b8-f8b2b1929be3": {
+          "type": "shopify:\/\/apps\/rivo-product-reviews-app-ugc\/blocks\/reviews-widget\/5f785e18-66cc-4519-8181-565d1cce1705",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "5d1a3df5-17f8-43a8-b3b8-f8b2b1929be3"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b30f0162-fd9d-4572-bb82-5c63e8f0db6b",
+    "1a44334a-a7aa-41b4-8a5d-afbe1aa6dc12",
+    "sub",
+    "0173f9f4-705c-47de-ab80-ac7f95d78225",
+    "3c83f135-c45c-4a84-b4c7-7edd3c77e5f4",
+    "bb9fe01c-a0ed-48f1-a046-5bea307b425b",
+    "product-recommendations",
+    "34a98e9a-c6dd-43eb-ab0b-482d5a1f9eb9",
+    "b1a190f1-7ffa-429a-a1c5-591bf7708fb3",
+    "f8d0edf2-d818-4552-bfa4-983c8465b9e7",
+    "4300e429-52fe-469d-ab4d-34981092420a",
+    "ee9ea0dd-2b2c-46c6-96ca-9105c4304ccf",
+    "0068be69-72e6-42a5-86ed-a6235c32e335",
+    "collection-return",
+    "recently-viewed",
+    "558346a3-8515-4513-b4a3-3521fc9b65e8",
+    "a9e420ad-b0cc-4172-a683-4ae9ad3564af",
+    "9fb5c530-a09b-4c0b-a030-e1634d7de770",
+    "9b593ad3-aa5d-4320-939c-a665b4946e06",
+    "16760359151469db94"
+  ]
+}

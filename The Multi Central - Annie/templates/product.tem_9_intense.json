@@ -1,0 +1,434 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "42420cf0-ad56-455e-a36f-116632435f1e": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT'S INCLUDED?",
+            "content": "<p><strong>Prestige - Advanced 2-in-1 Light Therapy Skincare Device<\/strong><\/p><p>- Prestige Handset<\/p><p>- User Guide<\/p><p>- Light Therapy USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p><p><strong>Luxe - Multifunctional Rejuvenating Cleansing Brush<\/strong><\/p><p>- Luxe Handset<\/p><p>- User Guide<\/p><p>- Cleansing Brush Replacement USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p><p><strong>Iconic - Eyebrow Hair Trimmer<\/strong><\/p><p>- Iconic Handset<\/p><p>- User Guide<\/p><p>- Eyebrow Hair Trimmer USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p>",
+            "page": ""
+          }
+        },
+        "08e8707a-7f97-4e36-a23c-ebe88f8fe7cc": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW OFTEN SHOULD I PRESTIGE?",
+            "content": "<p>We suggest 3-5 times per week, for 15-30 minutes per session.<\/p>",
+            "page": ""
+          }
+        },
+        "f50125e9-c7ba-4a5d-9b09-470ce510c88a": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW LONG DOES IT TAKE TO SEE RESULTS FOR PRESTIGE?",
+            "content": "<p>Results can be noticed in as little as 1 week!<\/p>",
+            "page": ""
+          }
+        },
+        "1c1ee18b-b3f3-4ae9-a122-6626608397d6": {
+          "type": "tab",
+          "settings": {
+            "title": "WHO SHOULD NOT USE THE PRESTIGE DEVICE?",
+            "content": "<p>Out of an abundance of caution, we do not recommend using the Prestige Advanced 2-in-1 Light Therapy Skincare Device if you are under 18, have an active or recent cancer diagnosis. Have a pacemaker (or other implated metal in your body), or are pregnant.<\/p><p>If you have any concerns please consult your physician as they will best be able to speak to your specific situation.<\/p>",
+            "page": ""
+          }
+        },
+        "135a0f72-73f5-4e50-8eec-7bfe9d9a940b": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT IS LUXE ALL ABOUT?",
+            "content": "<p><strong>TheMultiCentral Cleansing Brush is the Top-Selling skin cleansing and massage tool for all skin types!<\/strong><\/p><p>This premium quality Cleansing Brush is designed to easily remove dirt, oil, makeup, debris from your face. It also has a massage head to rejuvenate the face. Get salon-like facial at home!<\/p>",
+            "page": ""
+          }
+        },
+        "3ac62713-b8b9-4ab0-b50a-641b1485c2b5": {
+          "type": "tab",
+          "settings": {
+            "title": "WHAT MAKES LUXE DIFFERENT?",
+            "content": "<p>- Soft, deep-cleansing massage<\/p><p>- Removes pore-clossing impurities<\/p><p>- Helps stimulate collagen production<\/p><p>- Kills blemish-causing bacteria without harmful side effects<\/p><p>- Safe and effective or all skin types<\/p><p>- Gentle for sensitive skin and mild-to-moderate acne<\/p>",
+            "page": ""
+          }
+        },
+        "360aa0d4-9dff-448c-9a88-bc868c6aa97b": {
+          "type": "tab",
+          "settings": {
+            "title": "HOW IT WORKS",
+            "content": "<p>The Iconic Precision Eyebrow Trimmer is an electric pen tool made out of sharp stainless steel, giving it a close, precise and clean trim. Using our 24k rose gold plated tip ensures minimizaation to skin irritation and discomfort.<\/p>",
+            "page": ""
+          }
+        },
+        "f58a7909-6c2b-4a2f-bab5-6ea99098a007": {
+          "type": "tab",
+          "settings": {
+            "title": "INSTRUCTIONS",
+            "content": "<p><strong>Prestige<\/strong><\/p><p><strong>1. Clean your face<\/strong><\/p><p>We recommend to wash and dry your face so you start with clean, hydrated skin.<\/p><p><strong>2. Turn on the device<\/strong><\/p><p>Apply a serum or moisturiser. Glide the device across your face in an upward and outward motion. Slowly covering your forehead, cheeks, undereyes, jaw, neck and upper lip.Use for at least 15 minutes and enjoy your new glow.<\/p><p><strong>3. Clean the device<\/strong><\/p><p>Wipe the device over with water<\/p><p><strong>Luxe<\/strong><\/p><p><strong>1. Charge the device<\/strong><\/p><p>Ensure the device is charged (3 hours for the first use)<\/p><p><strong>2. Choose the brush head<\/strong><\/p><p>Attach the brush head of your choice. Simply pull\/push to remove and attach the brush head.<\/p><p><strong>3. Ensure the face is wet\/damp<\/strong><\/p><p>Use after wetting your face with warm water for best results. Then you can apply a face cleanser if you wish.<\/p><p><strong>4. Power On and Adjust Speed<\/strong><\/p><p>Press the power button and the speed button to adjust speed to your liking. Low to high speed. You can also use the device in water as it is waterproof.<\/p><p><strong>5. Use circular motions<\/strong><\/p><p>Clean your face in circular motions for several minutes.<\/p><p><strong>6. Wash Face and Clean the Device<\/strong><\/p><p>Wash your face with warm water and apply a moisturizer or serum to keep the skin hydrated or use the massage head to massage the moisturizer or serum into the skin. Clean the device and store away to dry.<\/p><p><strong>Iconic<\/strong><\/p><p><strong>1. Prepare the area<\/strong><\/p><p>We recommend usage on dry clean skin.<\/p><p><strong>2. Remove the cap and switch the device on<\/strong><\/p><p>We recommend to slightly pull back the skin and trim the area by gengtly moving the head in small circular motions. For the best results do not use with no creams, serums, makeup or any other topical products.<\/p><p><strong>3. Be sure to clean<\/strong><\/p><p>The device everytime you use it by twisting off the pen and using the small brush to dust off any excess hair. We recommend that you use the Iconic Precision Eyebrow Hair Trimmer once or twice a week to help maintain your beautiful brows.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "buy_buttons",
+        "42420cf0-ad56-455e-a36f-116632435f1e",
+        "description",
+        "tab",
+        "08e8707a-7f97-4e36-a23c-ebe88f8fe7cc",
+        "f50125e9-c7ba-4a5d-9b09-470ce510c88a",
+        "1c1ee18b-b3f3-4ae9-a122-6626608397d6",
+        "135a0f72-73f5-4e50-8eec-7bfe9d9a940b",
+        "3ac62713-b8b9-4ab0-b50a-641b1485c2b5",
+        "360aa0d4-9dff-448c-9a88-bc868c6aa97b",
+        "f58a7909-6c2b-4a2f-bab5-6ea99098a007",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "0ce2ad10-7008-42e6-96de-aa6ae445c5f0": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116215972048__0ce2ad10-7008-42e6-96de-aa6ae445c5f0-167120997579bbcafb-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Bundle & Save. Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116215972048__0ce2ad10-7008-42e6-96de-aa6ae445c5f0-167120997579bbcafb-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "20",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116215972048__0ce2ad10-7008-42e6-96de-aa6ae445c5f0-167120997579bbcafb-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/collections\/bundles",
+            "button": "shop bundles",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215972048__0ce2ad10-7008-42e6-96de-aa6ae445c5f0-167120997579bbcafb-0",
+        "template--16116215972048__0ce2ad10-7008-42e6-96de-aa6ae445c5f0-167120997579bbcafb-1",
+        "template--16116215972048__0ce2ad10-7008-42e6-96de-aa6ae445c5f0-167120997579bbcafb-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "a572825a-3a6f-4764-88cd-ca6b1c85e75b": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/9b361f44fea64d209f811f5e3674b908.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "4f30b6db-38ac-48f8-8a4a-1c63036dae8a": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215972048__4f30b6db-38ac-48f8-8a4a-1c63036dae8a-1671015936ad48a547-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/8_8cbfc681-33e8-4763-830c-14d104b26784.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Microcurrent EMS Up<\/strong><\/p><p><em>Stimulate the muscles and deeper layers. Helps signs of aging and promoting smooth, healthy skin.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215972048__4f30b6db-38ac-48f8-8a4a-1c63036dae8a-1671015936ad48a547-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design_50.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Therapeutic Warmth Massage<\/strong><\/p><p><em>Provides gentle massage, helping decrease appearance of redness, puffiness and boosts skin's natural radiance.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215972048__4f30b6db-38ac-48f8-8a4a-1c63036dae8a-1671015936ad48a547-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/6_bd831c3b-5743-41ad-b009-8416e8c5aa08.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Blue Light Therapy<\/strong><\/p><p><em>Fights against breakouts, boosts the effects of serums & topicals and improves skin's radiance.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5ffc9c30-f545-4395-9de2-6785fcbceb72": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/5_a5522ada-a5d2-452a-bc45-939a4867390b.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p><strong>Red Light Therapy<\/strong><\/p><p><em>Rejuvenate the skin and improve the appearance and vibrance of the skin. Healing the inner and outer surface.<\/em><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215972048__4f30b6db-38ac-48f8-8a4a-1c63036dae8a-1671015936ad48a547-0",
+        "template--16116215972048__4f30b6db-38ac-48f8-8a4a-1c63036dae8a-1671015936ad48a547-1",
+        "template--16116215972048__4f30b6db-38ac-48f8-8a4a-1c63036dae8a-1671015936ad48a547-2",
+        "5ffc9c30-f545-4395-9de2-6785fcbceb72"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "What Prestige Can Do For You",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "7116bdcc-225a-43bf-b49f-f3a79bcd0458": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Yellow_Playful_Vitamin_Chart_Information_Instagram_Post_2.png",
+        "image_width": 700,
+        "subtitle": "THE MOST HYGIENIC WAY TO CLEANSE SKIN.",
+        "title": "",
+        "text": "<p><strong>Tailored cleansing<br\/><\/strong>6 brush types - for balanced, sensitive or combination skin. Gentle, Regular & Deep cleanse modes - for different areas of the face & neck.<\/p><p><strong>Firming massages<br\/><\/strong>Guided firming massages help reduce fine lines & sagging, relax facial & neck muscle tension points - targeting visible signs of aging.<\/p><p><strong>Flawless prep<br\/><\/strong>The best way to prep skin, for a more effective skincare routine. Luxe enables active ingredients in your creams, serums, and masks to penetrate deep into skin, where they work best<\/p><p><strong>Reduce blemishes<br\/><\/strong>Made of our Silicone Brush Head. Luxe is bacteria-resistant to reduce breakouts. It also gently exfoliates skin, removing dead skin cells to reveal fresh healthy skin below.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "6ce5cd81-7ace-419b-acd8-0bc5ee09c4c5": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Electric_Eyebrow_Trimmer_1.jpg",
+        "image_width": 700,
+        "subtitle": "TECHNOLOGICAL MASTERPIECE",
+        "title": "The Iconic",
+        "text": "<p>We redesigned the eyebrow hair trimmer by focusing on maximum performance and comfort.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1aa3a9e5-b8cb-4356-882e-44d23a63f8a7": {
+      "type": "c-text-column",
+      "blocks": {
+        "template--16116215972048__1aa3a9e5-b8cb-4356-882e-44d23a63f8a7-16712604354e35c544-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Brown_Elegant_Before_After_Instagram_Post.png",
+            "image_width": 650,
+            "title": "HEALTH",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215972048__1aa3a9e5-b8cb-4356-882e-44d23a63f8a7-16712604354e35c544-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Before_and_After_Lash_Tech_Rose_Gold_Instagram_Post.png",
+            "image_width": 650,
+            "title": "IS",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215972048__1aa3a9e5-b8cb-4356-882e-44d23a63f8a7-16712604354e35c544-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Before_and_After_Lash_Tech_Rose_Gold_Instagram_Post_1.png",
+            "image_width": 650,
+            "title": "WEALTH",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215972048__1aa3a9e5-b8cb-4356-882e-44d23a63f8a7-16712604354e35c544-0",
+        "template--16116215972048__1aa3a9e5-b8cb-4356-882e-44d23a63f8a7-16712604354e35c544-1",
+        "template--16116215972048__1aa3a9e5-b8cb-4356-882e-44d23a63f8a7-16712604354e35c544-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "Real People, Real Results",
+        "c-rich_text": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1aec2202-0206-422e-bd22-6076facedf00": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "abc720bb-bf5d-4ea6-92d4-1baaa64dc418": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0ce2ad10-7008-42e6-96de-aa6ae445c5f0",
+    "a572825a-3a6f-4764-88cd-ca6b1c85e75b",
+    "4f30b6db-38ac-48f8-8a4a-1c63036dae8a",
+    "7116bdcc-225a-43bf-b49f-f3a79bcd0458",
+    "6ce5cd81-7ace-419b-acd8-0bc5ee09c4c5",
+    "1aa3a9e5-b8cb-4356-882e-44d23a63f8a7",
+    "1aec2202-0206-422e-bd22-6076facedf00",
+    "sub",
+    "product-recommendations",
+    "recently-viewed",
+    "collection-return",
+    "abc720bb-bf5d-4ea6-92d4-1baaa64dc418"
+  ]
+}

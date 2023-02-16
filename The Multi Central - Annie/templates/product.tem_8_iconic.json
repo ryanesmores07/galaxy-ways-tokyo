@@ -1,0 +1,385 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 10,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "43f162ff-1334-497d-9d09-d3580306b18c": {
+          "type": "CurrentViewers",
+          "settings": {
+            "currView1": "Currently there are",
+            "currView2": "people currently looking at this product"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "What's included?",
+            "content": "<p>- Iconic - Precision Eyebrow Hair Trimmer<\/p><p>- User Guide<\/p><p>- Eyebrow Hair Trimmer USB Cord<\/p><p>- 90 Day Guarantee & 1 Year Warranty<\/p>",
+            "page": ""
+          }
+        },
+        "8b9af90e-60c5-45be-8250-31639bdd5f11": {
+          "type": "tab",
+          "settings": {
+            "title": "How it works",
+            "content": "<p>The Iconic Precision Eyebrow Trimmer is an electric pen tool made out of sharp stainless steel, giving it a close, precise and clean trim. Using our 24k rose gold plated tip ensures minimizaation to skin irritation and discomfort.<\/p>",
+            "page": ""
+          }
+        },
+        "d8b05e1e-4716-462c-9646-91a59f310bac": {
+          "type": "tab",
+          "settings": {
+            "title": "Will this work for my hair?",
+            "content": "<p>Yes! More than likely! As long as there is hair to trim the technology will target the areas of the face and shave them. Whether you have fine or coarse hair.<\/p>",
+            "page": ""
+          }
+        },
+        "7a9557b1-de11-44ab-932a-d430c009df57": {
+          "type": "tab",
+          "settings": {
+            "title": "Instructions",
+            "content": "<p><strong>1. Prepare the area<\/strong><\/p><p>We recommend usage on dry clean skin.<\/p><p><strong>2. Remove the cap and switch the device on<\/strong><\/p><p>We recommend to slightly pull back the skin and trim the area by gengtly moving the head in small circular motions. For the best results do not use with no creams, serums, makeup or any other topical products.<\/p><p><strong>3. Clean your Iconic Hair Trimmer<\/strong><\/p><p>Be sure to clean the device everytime you use it by twisting off the pen and using the small brush to dust off any excess hair. We recommend that you use the Iconic Precision Eyebrow Hair Trimmer once or twice a week to help maintain your beautiful brows.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "43f162ff-1334-497d-9d09-d3580306b18c",
+        "description",
+        "tab",
+        "8b9af90e-60c5-45be-8250-31639bdd5f11",
+        "d8b05e1e-4716-462c-9646-91a59f310bac",
+        "7a9557b1-de11-44ab-932a-d430c009df57",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
+      }
+    },
+    "04e0d6d0-5860-4256-ae76-6e0881526b74": {
+      "type": "countdown",
+      "blocks": {
+        "template--16116215939280__04e0d6d0-5860-4256-ae76-6e0881526b74-1671022535f94456ab-0": {
+          "type": "content",
+          "settings": {
+            "heading": "Hurry! Sale ends soon!",
+            "heading_size": "h2",
+            "text": "<p>Get up to 50% off don't miss out!<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "template--16116215939280__04e0d6d0-5860-4256-ae76-6e0881526b74-1671022535f94456ab-1": {
+          "type": "timer",
+          "settings": {
+            "year": "2022",
+            "month": "12",
+            "day": "31",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116215939280__04e0d6d0-5860-4256-ae76-6e0881526b74-1671022535f94456ab-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_link": "shopify:\/\/collections\/all",
+            "button": "SHOP ALL",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215939280__04e0d6d0-5860-4256-ae76-6e0881526b74-1671022535f94456ab-0",
+        "template--16116215939280__04e0d6d0-5860-4256-ae76-6e0881526b74-1671022535f94456ab-1",
+        "template--16116215939280__04e0d6d0-5860-4256-ae76-6e0881526b74-1671022535f94456ab-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "f263a6d4-6e03-4cff-a3bc-f4de098c9fc2": {
+      "type": "c-product-video",
+      "settings": {
+        "videofile": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/2d75f5f0f7574f00ba571d0cecd0922f.mp4",
+        "title": "",
+        "description": "",
+        "text_align": "text-center",
+        "overlay_opacity": 15,
+        "color": "homepage--white",
+        "link_text": "",
+        "link": "",
+        "button_style": "btn btn--large btn--clear btn--square uppercase"
+      }
+    },
+    "82d3e94f-a866-4ead-aefd-a8a46c34e562": {
+      "type": "c-image-with-text",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.",
+        "text_1": "Image with text",
+        "text_2": "Image with text",
+        "text_3": "Image with text",
+        "text_4": "Image with text",
+        "text_5": "Image with text",
+        "text_6": "Image with text",
+        "text_7": "Image with text",
+        "text_8": "Image with text",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "2592eadc-13c6-4e10-a505-086bdaa83d65": {
+      "type": "c-image-with-text-s5",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Electric_Eyebrow_Trimmer_1.jpg",
+        "image_width": 700,
+        "subtitle": "TECHNOLOGICAL MASTERPIECE",
+        "title": "The Iconic",
+        "text": "<p>We redesigned the eyebrow hair trimmer by focusing on maximum performance and comfort.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "ff95af49-cfcd-4b39-8911-2d1104de2076": {
+      "type": "text-columns",
+      "blocks": {
+        "template--16116215939280__ff95af49-cfcd-4b39-8911-2d1104de2076-1671378197831b7386-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design_53.png",
+            "image_width": 650,
+            "title": "Before",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16116215939280__ff95af49-cfcd-4b39-8911-2d1104de2076-1671378197831b7386-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Untitled_design_54.png",
+            "image_width": 650,
+            "title": "After",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215939280__ff95af49-cfcd-4b39-8911-2d1104de2076-1671378197831b7386-0",
+        "template--16116215939280__ff95af49-cfcd-4b39-8911-2d1104de2076-1671378197831b7386-1"
+      ],
+      "settings": {
+        "title": "Compare The Difference",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "2d1692a1-2093-4b98-afa5-cb4556bd9412": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16116215939280__2d1692a1-2093-4b98-afa5-cb4556bd9412-1671022015e7b4752b-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_57_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>MULTIPRO RED LIGHT SERIES<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/multipro-series"
+          }
+        },
+        "template--16116215939280__2d1692a1-2093-4b98-afa5-cb4556bd9412-1671022015e7b4752b-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_38.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>BLOSSOM SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/blossom-skin-bundle-evolve-iconic"
+          }
+        },
+        "template--16116215939280__2d1692a1-2093-4b98-afa5-cb4556bd9412-1671022015e7b4752b-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/e_37.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>SIGNATURE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/signature-skin-bundle-luxe-prestige-silken"
+          }
+        },
+        "b97a73a6-825c-4368-880a-5b6f514b07a9": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/IPLLASER_39.png",
+            "image_width": 650,
+            "title": "",
+            "text": "<p>INTENSE SKIN BUNDLE<\/p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/intense-skin-bundle-luxe-prestige-iconic"
+          }
+        }
+      },
+      "block_order": [
+        "template--16116215939280__2d1692a1-2093-4b98-afa5-cb4556bd9412-1671022015e7b4752b-0",
+        "template--16116215939280__2d1692a1-2093-4b98-afa5-cb4556bd9412-1671022015e7b4752b-1",
+        "template--16116215939280__2d1692a1-2093-4b98-afa5-cb4556bd9412-1671022015e7b4752b-2",
+        "b97a73a6-825c-4368-880a-5b6f514b07a9"
+      ],
+      "settings": {
+        "title": "BUNDLE & SAVE",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {}
+    },
+    "c6be2b33-5bab-4f8c-8492-d797a4eec802": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "04e0d6d0-5860-4256-ae76-6e0881526b74",
+    "product-recommendations",
+    "f263a6d4-6e03-4cff-a3bc-f4de098c9fc2",
+    "82d3e94f-a866-4ead-aefd-a8a46c34e562",
+    "2592eadc-13c6-4e10-a505-086bdaa83d65",
+    "ff95af49-cfcd-4b39-8911-2d1104de2076",
+    "2d1692a1-2093-4b98-afa5-cb4556bd9412",
+    "recently-viewed",
+    "collection-return",
+    "c6be2b33-5bab-4f8c-8492-d797a4eec802"
+  ]
+}

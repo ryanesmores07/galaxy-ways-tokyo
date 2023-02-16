@@ -1,0 +1,625 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "76f4727f-e98a-4bbd-8d89-c679eb5f55d1": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Try It Risk-Free For 90 Days",
+            "content": "<p>We love our Silken Crystal Hair Eraser and are confident you will too! That’s why we're offering a 90-Day, Risk-Free Trial. We’ll hook you up with a full refund, no strings attached, if you're not happy with your results. <\/p>",
+            "page": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "disabled": true,
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Try It Risk-Free For 90 Days",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "price",
+        "variant_picker",
+        "buy_buttons",
+        "76f4727f-e98a-4bbd-8d89-c679eb5f55d1",
+        "description",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_size": "medium",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "86b75c3f-1455-44f0-bfbb-32076ead96ac": {
+      "type": "c-image-with-text-silken",
+      "disabled": true,
+      "settings": {
+        "image_width": 700,
+        "subtitle": "",
+        "title": "The future is Hair-Free!",
+        "text": "",
+        "text_1": "95%",
+        "text_2": "Said the appearance of their strawberry legs improved",
+        "text_3": "94%",
+        "text_4": "Noticed a reduction in the appearance of ingrown hairs",
+        "text_5": "90%",
+        "text_6": "Saw an improvement in the look of skin firmness",
+        "text_7": "",
+        "text_8": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948": {
+      "type": "asSeenIn",
+      "blocks": {
+        "template--16127565988048__e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948-16748494468cdfbea1-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_271.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565988048__e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948-16748494468cdfbea1-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/ocbc_1.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565988048__e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948-16748494468cdfbea1-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Group_270.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16127565988048__e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948-16748494468cdfbea1-0",
+        "template--16127565988048__e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948-16748494468cdfbea1-1",
+        "template--16127565988048__e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948-16748494468cdfbea1-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "AS SEEN IN",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "c3bb0038-7b7a-4930-80bd-a7349014deb2": {
+      "type": "c-richtext-logo",
+      "blocks": {
+        "8adbccce-08e3-481c-b89d-8d1922c9ceb4": {
+          "type": "logo",
+          "settings": {
+            "c-logo": "shopify:\/\/shop_images\/urban-outfits2_1.png"
+          }
+        },
+        "template--16127565988048__c3bb0038-7b7a-4930-80bd-a7349014deb2-1674849650b2632557-0": {
+          "type": "heading",
+          "settings": {
+            "c-sub-heading": "",
+            "title": "THE HAIR-FREE GUARANTEE"
+          }
+        },
+        "template--16127565988048__c3bb0038-7b7a-4930-80bd-a7349014deb2-1674849650b2632557-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "c-email": "",
+            "text": "We love our Silken Crystal Hair Eraser and are confident you will too! That’s why we're offering a 90-Day, Risk-Free Trial. We’ll hook you up with a full refund, no strings attached, if you're not happy with your results. "
+          }
+        }
+      },
+      "block_order": [
+        "8adbccce-08e3-481c-b89d-8d1922c9ceb4",
+        "template--16127565988048__c3bb0038-7b7a-4930-80bd-a7349014deb2-1674849650b2632557-0",
+        "template--16127565988048__c3bb0038-7b7a-4930-80bd-a7349014deb2-1674849650b2632557-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "67f4489b-b58a-429b-8365-308bcd4ab0d2": {
+      "type": "c-p-image-text-colunm",
+      "blocks": {
+        "template--16127565988048__67f4489b-b58a-429b-8365-308bcd4ab0d2-1674849746a32a8f62-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/25_1fbcd96e-dac2-4587-9d9f-2a0df14e6ea0.png",
+            "image_width": 650,
+            "title": "Smooth, soft skin",
+            "text": "<p>Hair removal is skincare. Silken keeps your skin touchably smooth- without any stubble, strawberry legs or ingrown hairs, ever.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565988048__67f4489b-b58a-429b-8365-308bcd4ab0d2-1674849746a32a8f62-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/27_6f78b194-f89a-4a43-9f2a-40bfe549d25b.png",
+            "image_width": 650,
+            "title": "Save time & money",
+            "text": "<p>Swap out the time and money you'd spend on laser, in-salon waxing, or annoying razors for an affordable solution.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565988048__67f4489b-b58a-429b-8365-308bcd4ab0d2-1674849746a32a8f62-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/imagenw.png",
+            "image_width": 650,
+            "title": "Beauty, minus pain",
+            "text": "<p>Say a loud \"see ya never\" to cuts, razor burn, irritation, or bracing yourself for the next pull during a bikini wax. All in the comfort of your home.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e47a82e2-871c-40ed-b8ce-04375b66c32d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/28_01d1ad75-00fc-4c4f-8309-406004d33c0e.png",
+            "image_width": 650,
+            "title": "Less flashing.... ;)",
+            "text": "<p>Spare that random girl at the salon and keep your V to yourself (when it comes to hair removal, that is.) Super discreet permanent hair removal.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16127565988048__67f4489b-b58a-429b-8365-308bcd4ab0d2-1674849746a32a8f62-0",
+        "template--16127565988048__67f4489b-b58a-429b-8365-308bcd4ab0d2-1674849746a32a8f62-1",
+        "template--16127565988048__67f4489b-b58a-429b-8365-308bcd4ab0d2-1674849746a32a8f62-2",
+        "e47a82e2-871c-40ed-b8ce-04375b66c32d"
+      ],
+      "settings": {
+        "c-sub-heading": "THE BENEFITS",
+        "title": "What Silken Can Do For You",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "6ef9abb8-beab-4cc3-b1e5-be31b5d7c6c5": {
+      "type": "c-richtext-logo",
+      "blocks": {
+        "3a839c14-a4c4-4259-a3dc-0cc437229f98": {
+          "type": "logo",
+          "settings": {
+            "c-logo": "shopify:\/\/shop_images\/FDA_CLEARED_1.png"
+          }
+        },
+        "template--16127565988048__6ef9abb8-beab-4cc3-b1e5-be31b5d7c6c5-1674849650b2632557-0": {
+          "type": "heading",
+          "settings": {
+            "c-sub-heading": "",
+            "title": "FDA APPROVED, SKIN-SAFE TECHNOLOGY"
+          }
+        },
+        "template--16127565988048__6ef9abb8-beab-4cc3-b1e5-be31b5d7c6c5-1674849650b2632557-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "c-email": "",
+            "text": "The Silken Crystal Hair Removal tool has been thoroughly tested to the most rigorous standards to deliver permanent results that won’t damage your skin. "
+          }
+        }
+      },
+      "block_order": [
+        "3a839c14-a4c4-4259-a3dc-0cc437229f98",
+        "template--16127565988048__6ef9abb8-beab-4cc3-b1e5-be31b5d7c6c5-1674849650b2632557-0",
+        "template--16127565988048__6ef9abb8-beab-4cc3-b1e5-be31b5d7c6c5-1674849650b2632557-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "2b494df4-2c6e-4294-b168-fdca9537bffa": {
+      "type": "image-text-silken",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/27.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Hair-Free Guarantee",
+        "text": "<p>We love our Silken Crystal Hair Eraser and are confident you will too! That's why we're offering a 90-Day, Risk-Free Trial. If you're not in love with your results, we'll give you a refund.<\/p><p><\/p><p>The Future is Hair-Free!<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "bd977685-852b-4c29-be72-d0034cc96268": {
+      "type": "c-left-right-text",
+      "blocks": {
+        "template--16127565988048__bd977685-852b-4c29-be72-d0034cc96268-1674850206a59f87e9-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "LESS HAIR, MORE SAVINGS",
+            "text": "<p>Other hair removal options cost an arm and a leg. The silken crystl hair removal tool gets rid of unwanted hair on your arms and your legs, without breaking the bank.<\/p>",
+            "title2": ""
+          }
+        },
+        "template--16127565988048__bd977685-852b-4c29-be72-d0034cc96268-1674850206a59f87e9-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "text": "",
+            "title2": "<div class=\"topcost\">\n<p>Shaving <strong>$480*<\/strong><\/p> <p>Waxing <strong>$3,120*<\/strong><\/p> <p>Laser <strong>$2,500**<\/strong><\/p>\n<\/div>\n\n<div class=\"total\">Silken <strong>Just $39<\/strong>\n<\/div>\n<p>\n*Cost evaluated over 4 years<br>\n**Cost of standard out-of-home treatments.\n<\/p>"
+          }
+        },
+        "template--16127565988048__bd977685-852b-4c29-be72-d0034cc96268-1674850206a59f87e9-2": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "title2": "<p>Evolve<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16127565988048__bd977685-852b-4c29-be72-d0034cc96268-1674850206a59f87e9-0",
+        "template--16127565988048__bd977685-852b-4c29-be72-d0034cc96268-1674850206a59f87e9-1",
+        "template--16127565988048__bd977685-852b-4c29-be72-d0034cc96268-1674850206a59f87e9-2"
+      ],
+      "settings": {
+        "c-sub-heading": "",
+        "title": "",
+        "c-rich_text": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "disabled": true,
+      "settings": {}
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like",
+        "related_count": 5
+      }
+    },
+    "19606f6c-9b52-429b-a9ba-9f993d14a868": {
+      "type": "countdown",
+      "disabled": true,
+      "blocks": {
+        "e0349533-9f37-4137-ac69-5c4589557a0b": {
+          "type": "content",
+          "settings": {
+            "heading": "BUY MORE SAVE MORE",
+            "heading_size": "h1",
+            "text": "<p>Bundle & Save<\/p>",
+            "content_alignment": "left"
+          }
+        },
+        "8ec9ec0f-cffe-410a-affb-01e07b06756d": {
+          "type": "timer",
+          "settings": {
+            "year": "2023",
+            "month": "01",
+            "day": "30",
+            "hour": "03",
+            "minute": "00",
+            "hide_timer": false,
+            "text": ""
+          }
+        },
+        "template--16116216430800__19606f6c-9b52-429b-a9ba-9f993d14a868-167145752021268c64-2": {
+          "type": "button",
+          "settings": {
+            "button_link": "shopify:\/\/products\/prestige-advanced-3-in-1-light-therapy-skincare-device",
+            "button": "Shop Now",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "e0349533-9f37-4137-ac69-5c4589557a0b",
+        "8ec9ec0f-cffe-410a-affb-01e07b06756d",
+        "template--16116216430800__19606f6c-9b52-429b-a9ba-9f993d14a868-167145752021268c64-2"
+      ],
+      "settings": {
+        "layout": "banner",
+        "full_width": false,
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "focal_point": "center",
+        "mobile_image_focal_point": "top"
+      }
+    },
+    "5a2b7d71-c6c0-4bcf-aa7d-a7f159a74320": {
+      "type": "c-image-with-text-s5",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Healthy_and_Unhealthy_Food_Comparison_Instagram_Post.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "What Makes Silken Special",
+        "text": "<p>Find out why you should choose Silken instead of other hair removal tools.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+        "recent_count": 5
+      }
+    },
+    "096b8ae2-9782-420d-a6a9-a46e2ee0c349": {
+      "type": "image-compare",
+      "blocks": {
+        "template--16127565988048__096b8ae2-9782-420d-a6a9-a46e2ee0c349-16748510505f4b25d8-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_aab290c6-0bbf-4fa9-afb5-087cd517eeec.png"
+          }
+        },
+        "template--16127565988048__096b8ae2-9782-420d-a6a9-a46e2ee0c349-16748510505f4b25d8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_93f420f7-f436-479b-8afb-264d8bf92012.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--16127565988048__096b8ae2-9782-420d-a6a9-a46e2ee0c349-16748510505f4b25d8-0",
+        "template--16127565988048__096b8ae2-9782-420d-a6a9-a46e2ee0c349-16748510505f4b25d8-1"
+      ],
+      "custom_css": [],
+      "settings": {
+        "heading": "REAL PEOPLE, REAL RESULTS",
+        "subheading": "",
+        "heading_size": "h1",
+        "heading_position": "left",
+        "fullwidth": true,
+        "slider_style": "classic",
+        "height": 600,
+        "color": "#ffffff"
+      }
+    },
+    "5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1": {
+      "type": "c-chart",
+      "blocks": {
+        "template--16127565988048__5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1-1674851186e7974f9e-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/imagenw.png",
+            "image_width": 650,
+            "title": "Silken",
+            "text": "<p>Take care of your hair at home Privacy & convenience<\/p>",
+            "text_2": "<p>Do it at your own pace<\/p>",
+            "text_3": "<p>Affordable one-time cost WAY cheaper<\/p>",
+            "text_4": "<p>Completely pain-free Gentle treatments<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565988048__5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1-1674851186e7974f9e-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/21_6ac4d905-44d2-46f0-8641-3bf686bc4e4f.png",
+            "image_width": 650,
+            "title": "SHAVING",
+            "text": "<p>Shave constantly to keep body hair in check<\/p>",
+            "text_2": "<p> Deal with razor bumps, irritation, and cuts<\/p>",
+            "text_3": "<p>Hard to get a close shave, let alone smooth skin that lasts<\/p>",
+            "text_4": "<p>An affordable but recurring expense<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16127565988048__5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1-1674851186e7974f9e-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/22_a09e918e-2071-466b-b84b-d5a9d4991882.png",
+            "image_width": 650,
+            "title": "WAXING",
+            "text": "<p>Hot wax literally rips your hair off your body. Ouch!<\/p>",
+            "text_2": "<p>Have a stranger remove your hair (even down there)<\/p>",
+            "text_3": "<p>Travel to a salon or brave the at-home wax kits<\/p>",
+            "text_4": "<p>Get waxed every 2-5 weeks… forever<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "caae201b-091c-4fc6-bb03-295a41cd610e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/23_90d68228-58da-4ea6-95e9-55519bb3a451.png",
+            "image_width": 650,
+            "title": "CLINICAL LASER",
+            "text": "<p>Bring your hairy self all the way to a clinic<\/p>",
+            "text_2": "<p>Wait 4-6 weeks between each session<\/p>",
+            "text_3": "<p>Avg Cost: 2-3x Evolve's price per session (and you'll prob need 4-8+)<\/p>",
+            "text_4": "<p>Painful, especially on underarms & bikini areas<\/p>",
+            "text_5": "",
+            "text_6": "",
+            "text_7": "",
+            "text_8": "",
+            "text_9": "",
+            "text_10": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16127565988048__5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1-1674851186e7974f9e-0",
+        "template--16127565988048__5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1-1674851186e7974f9e-1",
+        "template--16127565988048__5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1-1674851186e7974f9e-2",
+        "caae201b-091c-4fc6-bb03-295a41cd610e"
+      ],
+      "settings": {
+        "title": "Compare The Difference",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "a6e4d8ed-def6-4f02-a435-55b1f9aab00a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "YOU DESERVE SKINCARE BUNDLES THAT WORK!",
+        "home_featured_products": "bundles",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "c59ae52a-cb3e-4c78-8fa4-4f9a381ce669": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": "<h4 style=\"text-align: center\" class=\"sub-heading c-letter-spacing-3-6  c-lexend\">\n\nFOLLOW US ON INSTAGRAM\n\n<\/h4>\n\n<h2 style=\"text-align: center!important\" class=\"c-bookmania c-font-size-40 \">\n@themulticentral<\/h2>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "86b75c3f-1455-44f0-bfbb-32076ead96ac",
+    "e9b3bdbc-51fd-4ba7-8c9f-ae2cd87f4948",
+    "c3bb0038-7b7a-4930-80bd-a7349014deb2",
+    "67f4489b-b58a-429b-8365-308bcd4ab0d2",
+    "6ef9abb8-beab-4cc3-b1e5-be31b5d7c6c5",
+    "2b494df4-2c6e-4294-b168-fdca9537bffa",
+    "bd977685-852b-4c29-be72-d0034cc96268",
+    "collection-return",
+    "sub",
+    "product-recommendations",
+    "19606f6c-9b52-429b-a9ba-9f993d14a868",
+    "5a2b7d71-c6c0-4bcf-aa7d-a7f159a74320",
+    "recently-viewed",
+    "096b8ae2-9782-420d-a6a9-a46e2ee0c349",
+    "5b27ca0b-d713-4e52-91ff-0d2ff26a1ea1",
+    "a6e4d8ed-def6-4f02-a435-55b1f9aab00a",
+    "c59ae52a-cb3e-4c78-8fa4-4f9a381ce669"
+  ]
+}

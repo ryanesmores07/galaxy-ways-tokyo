@@ -1,0 +1,164 @@
+
+<div class="test-container">
+    <div>
+      <h1 class = "test-section-title c-bookmania c-font-size-40">
+       {{ section.settings.c-p-heading }}
+      </h1>
+    </div>
+			<ul class="test-cards">
+
+             {% for block in section.blocks %}
+				<li class="test-cards_item">
+					<div class="test-card">
+						<div class="card_image">
+							<img
+								src="{{ block.settings.c-p-image | image_url: width: 250 }}"
+								class="test-img"
+							/>
+						</div>
+						<div class="test-card_content">
+							<h1 class="test-card_title c-bookmania c-font-size-40">
+								{{ block.settings.c-p-rich_text }}
+							</h1>
+							<p class=" c-text-2 c-lexend">
+								{{ block.settings.c-p-rich_text_2 }}
+							</p>
+						</div>
+					</div>
+				</li>
+
+           
+              {% endfor %}
+			
+    
+			</ul>
+		</div>
+
+{% schema %}
+{
+  "name": "testing",
+  "class": "text_1",
+  "max_blocks": 4,
+  "settings": [
+    {
+      "type": "text",
+      "id": "c-p-heading",
+      "label": "Heading",
+      "default": "Heading"
+    }    
+  ],
+
+
+  
+  "blocks": [
+    {
+      "type": "text_block",
+      "name": "text_2",
+      "settings": [
+
+         {
+      "type": "image_picker",
+      "id": "c-p-image",
+      "label": "image"
+    },
+        {
+      "type": "text",
+      "id": "c-p-rich_text",
+      "label": "rich_text"
+    },   
+        {
+      "type": "richtext",
+      "id": "c-p-rich_text_2",
+      "label": "rich_text"
+    }   
+         
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "testing",
+      "blocks": [
+       
+      ]
+    }
+  ]
+}
+{% endschema %}
+
+<style>
+  .test-section-title{
+    text-align:center;
+  }
+			.test-container {
+               text-align: center;
+				margin: 15px auto !important;
+			}
+
+			.test-card_title {
+				font-size: 24px;
+				font-weight: 400;
+				text-align: center;
+				color: #756a58;
+			}
+
+			.test-img {
+				height: auto;
+				max-width: 100%;
+				vertical-align: middle;
+			}
+
+			.test-cards {
+				display: flex;
+				flex-wrap: wrap;
+				list-style: none;
+				/* margin: 0;
+				padding: 0; */
+			}
+
+			.test-cards_item {
+				display: flex;
+				padding: 1rem;
+			}
+.test-card {
+				background-color: white;
+				border-radius: 0.25rem;
+				
+				display: flex;
+				flex-direction: column;
+				overflow: hidden;
+				max-width:235px;
+			}
+
+			.test-card_content {
+				padding: 1rem;
+				text-align: center;
+			}
+
+			.test-card_title {
+				color: #6C6968;
+				
+				
+				letter-spacing: 1px;
+				text-transform: capitalize;
+				margin: 10px;
+                padding: 5px;
+			}
+
+		
+			@media (min-width: 40rem) {
+				.cards_item {
+					width: 50%;
+				}
+			}
+
+			@media (min-width: 56rem) {
+				.cards_item {
+					width: 33.3333%;
+				}
+			}
+
+			
+ 
+}
+</style>
